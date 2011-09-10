@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">Gestion des comptes MIUI</string>
     <string name="service_name">Gestionnaire de comptes MIUI</string>
-    <string name="authenticator_label">MIUI</string>
+    <string name="authenticator_label">MIUI/XIAOMI</string>
     <string name="logon">Connexion</string>
     <string name="nickname">Pseudo</string>
     <string name="username">Nom d\'utilisateur</string>
