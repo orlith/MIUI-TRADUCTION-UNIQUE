@@ -485,10 +485,9 @@
     <string name="sd_ejecting_title">Désactivation en cours</string>
     <string name="sd_ejecting_summary">Désactivation en cours</string>
     <string name="apn_settings">APN</string>
-   <string name="apn_auto_switch_setting_title">Changement automatique</string>
+    <string name="apn_auto_switch_setting_title">Changement automatique</string>
     <string name="apn_auto_switch_setting_summary">Permet au système de choisir automatiquement l\'APN qui convient (sauf MMS)</string>
     <string name="apn_auto_switch_dialog_message">Si désactivé, l\'APN par défaut sera utilisé ce qui peut être une cause d\'erreur.\nVoulez vous vraiment désactiver ce paramètre?</string>
-    <string name="apn_edit">Editer l\'APN</string>
     <string name="apn_edit">Modifier le point d\'accès</string>
     <string name="apn_not_set">&lt;Non défini></string>
     <string name="apn_name">Nom</string>
