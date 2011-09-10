@@ -58,7 +58,7 @@
     <string name="operation_move">Couper</string>
     <string name="operation_moving">Déplacement...</string>
     <string name="operation_paste">Coller</string>
-    <string name="operation_pasting">Collage...</string>
+    <string name="operation_pasting">Copie...</string>
     <string name="operation_refresh">Actualiser</string>
     <string name="operation_remove">Supprimer</string>
     <string name="operation_rename">Renommer</string>
