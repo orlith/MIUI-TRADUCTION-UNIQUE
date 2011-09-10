@@ -248,7 +248,7 @@
     <string name="bluetooth_display_passkey_msg">Entrez %2$s sur \"%1$s\" pour effectuer l\'association.</string>
     <string name="bluetooth_pairing_accept">Se connecter</string>
     <string name="bluetooth_pairing_decline">Ne pas se connecter</string>
-    <string name="bluetooth_remote_device">Périphérique Bluetooth</string>
+    <string name="bluetooth_remote_device">Périphérique Bluetooth distant</string>
     <string name="bluetooth_error_title">Avertissement</string>
     <string name="bluetooth_pairing_error_message">Un problème est survenu lors de l\'association à %1$s.</string>
     <string name="bluetooth_pairing_pin_error_message">Un problème est survenu lors de l\'association à %1$s, car la clé d\'accès ou le code secret saisi est incorrect.</string>
@@ -311,7 +311,7 @@
     <string name="wifi_menu_connect">Se connecter au réseau</string>
     <string name="wifi_menu_forget">Retirer le réseau</string>
     <string name="wifi_menu_modify">Modifier le réseau</string>
-    <string name="wifi_cancel_wps">Annumer la connexion WPS</string>
+    <string name="wifi_cancel_wps">Annuler la connexion WPS</string>
     <string name="wifi_wps_method">Méthode WPS</string>
     <string name="wifi_wps_ssid">Selectionner un SSID</string>
     <string name="wifi_wps_any_ssid">SSID</string>
@@ -343,7 +343,7 @@
     <string name="wifi_password_incorrect">Mot de passe incorrect, réessayez.</string>
     <string name="wifi_show_password">Afficher le mot de passe</string>
     <string name="wifi_wapi_as_certificate">Certificat AS</string>
-    <string name="wifi_wapi_user_certificate">Certificat d\'utilisateur</string>
+    <string name="wifi_wapi_user_certificate">Certificat utilisateur</string>
     <string name="wifi_unchanged">(aucune modification)</string>
     <string name="wifi_unspecified">(non spécifié)</string>
     <string name="wifi_remembered">Réseaux enregistrés</string>
@@ -407,7 +407,7 @@
     <string name="wifi_state_enabling">Activation</string>
     <string name="wifi_state_enabled">Activé</string>
     <string name="wifi_state_unknown">Inconnu</string>
-    <string name="wifi_config_info">Configuration wifi</string>
+    <string name="wifi_config_info">Configuration wi-fi</string>
     <string name="config_list_label">Réseaux configurés</string>
     <string name="sound_settings_title">Son</string>
     <string name="display_settings_title">Affichage</string>
@@ -476,7 +476,7 @@
     <string name="sd_mount_summary">Monter la carte SD</string>
     <string name="sd_format">Formater la carte SD</string>
     <string name="sd_unavailable">Non disponible</string>
-    <string name="read_only">(Lecture seule)</string>
+    <string name="read_only">\u0020(Lecture seule)</string>
     <string name="dlg_confirm_unmount_title">Désactiver la carte SD</string>
     <string name="dlg_confirm_unmount_text">Si vous désactivez la carte SD, certaines applications que vous utilisez s\'arrêteront et risquent de ne plus être disponibles tant que vous n\'aurez pas réactivé la carte SD.</string>
     <string name="dlg_error_unmount_title">Échec de la désactivation de la carte SD</string>
@@ -534,7 +534,7 @@
     <string name="media_format_gesture_explanation">Vous devez créer votre schéma de déverrouillage pour confirmer le format de la carte SD.</string>
     <string name="call_settings_title">Paramètres d\'appel</string>
     <string name="tether_settings_title_usb">Partage de connexion</string>
-    <string name="tether_settings_title_wifi">Hotspot WIFI</string>
+    <string name="tether_settings_title_wifi">Hotspot WI-FI</string>
     <string name="tether_settings_title_both">Partage de connexion et point d\'accès mobile</string>
     <string name="tether_settings_summary_usb">Partagez la connexion Internet de votre mobile via un câble USB.</string>
     <string name="tether_settings_summary_wifi">Transformer votre mobile en Hotspot WIFI.</string>
@@ -617,7 +617,7 @@
     <string name="storage_label">Mémoire</string>
     <string name="auto_launch_label">Lancer par défaut</string>
     <string name="permissions_label">Autorisations</string>
-    <string name="cache_header_label">Cache</string>
+    <string name="cache_header_label">Taille du cache</string>
     <string name="clear_cache_btn_text">Effacer le cache</string>
     <string name="cache_size_label">Cache</string>
     <string name="force_stop">Forcer l\'arrêt</string>
@@ -643,7 +643,7 @@
     <string name="filter_apps_third_party">Téléchargées</string>
     <string name="filter_apps_running">En cours d\'exécution</string>
     <string name="filter_apps_onsdcard">Sur la carte SD</string>
-    <string name="disabled">Désactiver</string>
+    <string name="disabled">Désactivé</string>
     <string name="no_applications">Pas d\'application</string>
     <string name="internal_storage">Mémoire interne</string>
     <string name="sd_card_storage">Mémoire carte SD</string>
@@ -687,7 +687,7 @@
     <string name="service_background_processes">%1$s Disponible</string>
     <string name="service_foreground_processes">%1$s Utilisé</string>
     <string name="memory">RAM</string>
-    <string name="service_process_name">%1$s</string>
+    <string name="service_process_name">Processus: %1$s</string>
     <string name="running_processes_item_description_s_s">%1$d processus et %2$d services</string>
     <string name="running_processes_item_description_s_p">%1$d processus et %2$d services</string>
     <string name="running_processes_item_description_p_s">%1$d processus and %2$d service</string>
@@ -815,7 +815,7 @@
     <string name="battery_stats_charging_label">Chargement</string>
     <string name="battery_stats_screen_on_label">Ecran allumé</string>
     <string name="battery_stats_gps_on_label">GPS actif</string>
-    <string name="battery_stats_wifi_running_label">WiFi</string>
+    <string name="battery_stats_wifi_running_label">Wi-Fi</string>
     <string name="battery_stats_wake_lock_label">Veille</string>
     <string name="battery_stats_phone_signal_label">Puissance du signal du téléphone</string>
     <string name="awake">Durée de fonctionnement de l\'appareil</string>
@@ -1065,7 +1065,7 @@
     <string name="device_sdcard">Carte SD:</string>
     <string name="battery_level">Niveau de charge: %d</string>
     <string name="click_to_input">Cliquez pour écrire</string>
-    <string name="pc_connection_settings_title">Connexion au PC</string>
+    <string name="pc_connection_settings_title">Réglages USB</string>
     <string name="ask_user_usb_mode">Toujours demander</string>
     <string name="default_usb_mode">Connexion par défaut</string>
     <string name="usb_mode_mount_storage">Charge et USB</string>
@@ -1083,9 +1083,9 @@
     <string name="camera_key_action_setting_title">Appuyer sur le bouton MI</string>
     <string name="camera_key_action_category_title">Réaliser l\'opération si dans l\'appareil photo</string>
     <string name="camera_key_action_none_title">Ne rien faire</string>
-    <string name="camera_key_action_shortcut_title">Choisir une action</string>
+    <string name="camera_key_action_shortcut_title">Raccourci</string>
     <string name="camera_key_action_toggle_title">Bouton de déclenchement</string>
-    <string name="camera_key_action_app_title">Ouvrir l\'application</string>
+    <string name="camera_key_action_app_title">Ouvrir une application</string>
     <string name="camera_key_action_shortcut_home">Retour au bureau</string>
     <string name="camera_key_action_shortcut_screenshot">Prendre une capture d\'écran</string>
     <string name="camera_key_action_shortcut_search">Recherche</string>
@@ -1098,7 +1098,7 @@
     <string name="default_application_settings">Programmes par défaut</string>
     <string name="application_kept_in_memory_settings">Paramètres des applications conservées en mémoire</string>
     <string name="default_browser">Navigateur par défaut</string>
-    <string name="default_launcher">Launcher par défaut</string>
+    <string name="default_launcher">Lanceur par défaut</string>
     <string name="default_gallery">Galerie par défaut</string>
     <string name="default_reader">Lecteur de texte par défaut</string>
     <string name="default_dialer">App. tel. par défaut</string>
@@ -1116,7 +1116,7 @@
     <string name="breathing_light_color_title">Couleur du trackball</string>
     <string name="breathing_light_color_summary">Couleur du trackball lors de nouvelles notifications</string>
     <string name="breathing_light_freq_title">Fréquence de clignotement</string>
-    <string name="breathing_light_freq_summary">Intervalle entre les flashs</string>
+    <string name="breathing_light_freq_summary">Intervalle entre les clignotements</string>
     <string name="battery_settings">Economie d\'énergie</string>
     <string name="battery_settings_title">Energie</string>
     <string name="battery_indicator_style">Style de l\'indicateur de batterie</string>
@@ -1250,7 +1250,7 @@
     <string name="compatibility_mode_toggle_on">Activer</string>
     <string name="compatibility_mode_toggle_off">Désactiver</string>
     <string name="auto_agps">aGPS automatique</string>
-    <string name="auto_agps_sum">Positionnement automatique aGPS, active automatiquement le WIFI, peut entrainer un échange de donnée</string>
+    <string name="auto_agps_sum">Positionnement automatique aGPS, active automatiquement le WI-FI, peut entrainer un échange de donnée</string>
     <string name="gps_config_title">Configuration GPS</string>
     <string name="gps_config_summary">la configuration GPS peuvent être modifiés ici.</string>
     <string name="gps_config_ntp_server">Adresse du serveur NTP:</string>
@@ -1419,7 +1419,7 @@
     <string name="lock_sounds_enable_title">Son au (dé)verrouillage</string>
     <string name="lock_sounds_enable_summary_on">Activer le son lors du verrouillage / déverrouillage de l\'écran</string>
     <string name="lock_sounds_enable_summary_off">Désactiver le son lors du verrouillage / déverrouillage de l\'écran</string>
-    <string name="haptic_feedback_enable_title">Tactile</string>
+    <string name="haptic_feedback_enable_title">Retour haptique</string>
     <string name="haptic_feedback_enable_summary_on">Activer les retours haptiques</string>
     <string name="haptic_feedback_enable_summary_off">Désactiver les retours haptiques</string>
     <string name="incoming_call_vibrate_title">Vibreur pour les appels</string>
