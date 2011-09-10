@@ -83,12 +83,12 @@
     <string name="no_proper_updates">Pas de mise à jour adaptée</string>
     <string name="emegency_update_helper">Aide à la mise à jour</string>
     <string name="emegency_update_size">Taille:%s</string>
-    <string name="sign_in_info">Vous utilisez actuellement la ROM MIUI-FRANCE.com %3$s版</string>
+    <string name="sign_in_info">Vous utilisez actuellement la ROM MIUI-FRANCE.com %3$s</string>
     <string name="sign_in_add_account_helper">Si vous rencontrez des difficultés, rendez-vous sur MIUI.com</string>
     <string name="move_data_to_sdcard_title">Vers la carte SD</string>
-    <string name="move_data_to_sdcard_not_enough_space_message">Manque d\'espace libre sur la SD, libérez un minimum de %dM.</string>
-    <string name="moving_data_to_sdcard_message">Déplacement vers la carte SD</string>
-    <string name="moving_data_to_sdcard_progress_format">Déplacement en cours%1$dKB/Restant %2$dKB</string>
+    <string name="move_data_to_sdcard_not_enough_space_message">Besoin de migrer environ %dM de données, mais pas assez d\'espace libre sur la carte SD.</string>
+    <string name="moving_data_to_sdcard_message">Migration des données vers la carte SD, ne pas retirer celle-ci</string>
+    <string name="moving_data_to_sdcard_progress_format">Achevé: %1$dKB sur %2$dKB</string>
     <string name="finish_download">Téléchargement terminé</string>
     <string name="install_whole_rom">Installer la rom complète</string>
     <string name="check_update_policy">Vérifier lntégrité de la mise à jour</string>
