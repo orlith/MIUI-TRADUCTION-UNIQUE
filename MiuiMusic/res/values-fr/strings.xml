@@ -71,7 +71,7 @@
     <string name="create_playlist_create_text_prompt">Nom de la Playlist</string>
     <string name="rename_playlist_prompt">%s va être renommé</string>
     <string name="albumsongseparator">,</string>
-    <string name="app_name">Musique</string>
+    <string name="app_name">MIUI Music</string>
     <string name="confirm">Ok</string>
     <string name="cancel">Annuler</string>
     <string name="loading">Chargement...</string>
@@ -117,7 +117,7 @@
     <string name="fade_effect_settings">Effets de transition</string>
     <string name="feedback_thanks">Merci</string>
     <string name="download_lyric_summary">Vous pouvez désactiver ce paramètre pour économiser la consommation réseau.</string>
-    <string name="download_album_summary">Utiliser des pochettes d\'album. Utilise du trafic réseau et peut entraîner des coûts élevés.</string>
+    <string name="download_album_summary">Utiliser des pochettes d\'album utilise du trafic réseau et peut entraîner des coûts élevés.</string>
     <string name="listen_to_online_summary">Utilise du trafic réseau et peut entraîner des coûts élevés</string>
     <string name="flow_save_hint_summary">Confirmer l\'opération par une fenêtre pop-up à chaque fois</string>
     <string name="android_album_summary">Utiliser automatiquement les pochettes d\'album</string>
