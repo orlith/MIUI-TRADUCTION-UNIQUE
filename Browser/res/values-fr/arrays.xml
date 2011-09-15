@@ -31,7 +31,7 @@
     </string-array>
     <string-array name="pref_volume_setting_enable_choice">
         <item>Toujours appliquer le bouton de réglage du volume</item>
-        <item>Appliquer seulement si aucun jouer de la musique</item>
+        <item>Appliquer seulement lors de la lecture de musique</item>
     </string-array>
     <string-array name="pref_volume_setting_enable_choice_value">
         <item>ALWAYS</item>

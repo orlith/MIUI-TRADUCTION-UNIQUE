@@ -412,7 +412,7 @@
     <string name="onscreenVoiceDeviceSpeaker">Haut-parleurs</string>
     <string name="recordCall_sd_error">Erreur d\'accès à la carte SD. Insérez la carte SD avant d\'enregistrer</string>
     <string name="recordCall_sample_prefix">MIUI_Recording</string>
-    <string name="auto_ip_setting">Paramètres de roaming</string>
+    <string name="auto_ip_setting">Paramètres d\'itinérance</string>
     <string name="autoip">Numérotation IP auto</string>
     <string name="autoip_sum">Préfixe pour les appels à l\'étranger</string>
     <string name="ip_prefix">Préfixe</string>

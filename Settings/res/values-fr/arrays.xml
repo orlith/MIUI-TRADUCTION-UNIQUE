@@ -68,7 +68,6 @@
         <item>\#add8e6</item>
     </string-array>
     <string-array name="led_freq_entries">
-        <item>9 secondes</item>
         <item>2 secondes</item>
         <item>3 secondes</item>
         <item>4 secondes</item>
@@ -76,9 +75,9 @@
         <item>6 secondes</item>
         <item>7 secondes</item>
         <item>8 secondes</item>
+        <item>9 secondes</item>
     </string-array>
     <string-array name="led_freq_values">
-        <item>9000</item>
         <item>2000</item>
         <item>3000</item>
         <item>4000</item>
@@ -86,6 +85,7 @@
         <item>6000</item>
         <item>7000</item>
         <item>8000</item>
+        <item>9000</item>
     </string-array>
     <string-array name="screen_timeout_entries">
         <item>30 sec</item>
@@ -280,9 +280,9 @@
         <item>2</item>
     </string-array>
     <string-array name="haptic_feedback_level_entries">
-        <item>Légère</item>
-        <item>Normale</item>
-        <item>Elevée</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
     </string-array>
     <string-array name="haptic_feedback_level_values">
         <item>1</item>
