@@ -96,9 +96,9 @@
     <string name="task_service_not_launched">Service de sauvegarde n\'est pas démarré, veuillez patientez!</string>
     <string name="task_local_backup_cancel_dialog">Sauvegarde locale en cours\nCliquer sur OK pour annuler</string>
     <string name="task_cloud_backup_cancel_dialog">Sauvegarde réseau en cours\nCliquer sur OK pour annuler</string>
-    <string name="task_restore_cancel_dialog">Restauration en cours\nL\'annulation peut corrompre vos données</string>    <string name="task_backup_cancel_progress">Annulation de la sauvegarde...</string>
-    <string name="task_restore_cancel_progress">Annulation de la restauration...</string>
+    <string name="task_restore_cancel_dialog">Restauration en cours\nL\'annulation peut corrompre vos données</string>
     <string name="task_backup_cancel_progress">Annulation de la sauvegarde...</string>
+    <string name="task_restore_cancel_progress">Annulation de la restauration...</string>
     <string name="nothing_searched">Aucun résultat</string>
     <string name="restore_counts">Récupération</string>
     <string name="service_stoped">Service arrêté</string>
@@ -158,5 +158,5 @@
     <string name="cloud_restore_guide">Cliquez sur Restauration pour restaurer les données\n Vous pouvez également restaurer %s dans la sauvegarde</string>
     <string name="import_from_xiaomi_account_hint1">1.	Prenez un téléphone qui contient vos contacts\n\n2.	Installer MiTalk et connectez-vous.\n	http://www.miliao.com\n\n3.	Entrez dans les paramètres de MiTalk et choisissez ”Sauvegarder mes contacts sur mon compte Xiaomi”</string>
     <string name="import_from_xiaomi_account_hint2">Note: Allez à l\'étape suivante si une sauvegarde de vos contacts existe déjà.</string>
-    <string name="import_from_xiaomi_account_hint_title">Utilisez MiTalk pour sauvegarder vos contacts sur d'autres appareils sauf le Mi-One.</string>
+    <string name="import_from_xiaomi_account_hint_title">Utilisez MiTalk pour sauvegarder vos contacts sur d\'autres appareils sauf le Mi-One.</string>
 </resources>
