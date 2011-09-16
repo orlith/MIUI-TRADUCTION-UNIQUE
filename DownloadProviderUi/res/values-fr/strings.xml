@@ -54,5 +54,6 @@
     <string name="paused_unknown">Suspendu pour des raisons inconnues</string>
     <string name="confirm_delete_downloads_message">Voulez vous vraiment supprimer %d éléments?</string>
     <string name="confirm_delete_the_download_item_message">Voulez vous vraiment supprimer l\'élément téléchargé?</string>
-   <string name="delete_the_downloaded_file">Supprimer les fichiers téléchargés</string> 
+    <string name="delete_the_downloaded_file">Supprimer les fichiers téléchargés</string> 
+    <string name="downloads_operating">En cours...</string>
 </resources>

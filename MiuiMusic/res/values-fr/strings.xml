@@ -31,12 +31,6 @@
     <string name="playlist_renamed_message">La playlist a été renommée.</string>
     <string name="recentlyadded">Pistes récemment ajoutées</string>
     <string name="recentlyadded_title">Ajouter piste</string>
-    <string name="sdcard_missing_title">Pas de carte SD</string>
-    <string name="sdcard_missing_message">Aucune carte SD trouvée dans l\'appareil</string>
-    <string name="sdcard_busy_title">La carte SD est indisponible.</string>
-    <string name="sdcard_busy_message">la carte SD est occupée.</string>
-    <string name="sdcard_error_title">Erreur de carte CD</string>
-    <string name="sdcard_error_message">La carte SD a un problème.</string>
     <string name="unknown_artist_name">Artiste Inconnu</string>
     <string name="unknown_album_name">Album Inconnu</string>
     <string name="ringtone_menu">Sonneries</string>
