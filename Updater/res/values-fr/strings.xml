@@ -68,8 +68,8 @@
     <string name="test_version">Version de test</string>
     <string name="about_device">A propos de votre appareil</string>
     <string name="emegency_version">Version d\'urgence</string>
-    <string name="wifi_not_available_title">WIFI indisponible</string>
-    <string name="wifi_not_available_body">Le wifi est indisponible. Il est déconseillé de télécharger depuis une autre source réseau.</string>
+    <string name="wifi_not_available_title">Wi-fI indisponible</string>
+    <string name="wifi_not_available_body">Le Wi-fi est indisponible. Il est déconseillé de télécharger depuis une autre source réseau.</string>
     <string name="widget_title">Mise à jour MIUI</string>
     <string name="widget_feedback">Donnez votre avis</string>
     <string name="boot_recovery">Redémarrer en recovery</string>
@@ -91,7 +91,7 @@
     <string name="moving_data_to_sdcard_progress_format">Achevé: %1$dKB sur %2$dKB</string>
     <string name="finish_download">Téléchargement terminé</string>
     <string name="install_whole_rom">Installer la rom complète</string>
-    <string name="check_update_policy">Vérifier le md5sum</string>
-    <string name="check_update_when_wifi_available">Vérifier les mises à jour uniquement en wifi</string>
+    <string name="check_update_policy">Vérifier seulement en Wi-fi</string>
+    <string name="check_update_when_wifi_available">Vérifier les mises à jour uniquement en Wi-fi</string>
     <string name="install_file_explorer">Installez un gestionnaire de fichiers</string>
 </resources>

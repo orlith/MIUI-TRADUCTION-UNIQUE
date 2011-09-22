@@ -53,7 +53,7 @@
     <string name="invalid_vercode">Entrez le code de vérification reçu</string>
     <string name="invalid_nickname">Le pseudo est déjà utilisé ou est invalide.</string>
     <string name="invalid_password">Votre mot de passe doit contenir de 6 à 16 caractères</string>
-    <string name="forget_password">OMot de passe oublié？</string>
+    <string name="forget_password">Mot de passe oublié?</string>
     <string name="sending_request">Requête en cours...</string>
     <string name="succeed">Terminé</string>
     <string name="settings_safetylegal_activity_unreachable">Votre téléphone est connecté à un service de données. Pour en savoir plus, rendez vous sur %s depuis n\'importe quel ordinateur connecté à Internet.</string>
