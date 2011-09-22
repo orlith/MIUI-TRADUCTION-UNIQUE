@@ -93,8 +93,9 @@
     </string-array>
     <string-array name="pref_hide_statusbar_choices">
         <item>Toujours afficher la barre d\'état</item>
-        <item>Toujours masquer la barre d\'état</item>	
-        <item>Automatique</item>   </string-array>
+        <item>Toujours masquer la barre d\'état</item>
+        <item>Automatique</item>
+    </string-array>
     <string-array name="pref_hide_statusbar_values">
         <item>ALWAYS_SHOW</item>
         <item>ALWAYS_HIDE</item>

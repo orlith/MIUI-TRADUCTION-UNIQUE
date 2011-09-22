@@ -88,6 +88,8 @@
     <string name="recentCalls_empty">Le journal d\'appels est plein.</string>
     <string name="clearCallLogConfirmation_title">Effacer le journal d\'appels</string>
     <string name="clearCallLogConfirmation">Voulez-vous vraiment effacer le journal d\'appels ?</string>
+    <string name="clearOneCallLogConfirmation">Voulez-vous vraiment effacer cet appel du journal?</string>
+    <string name="clearGroupCallLogConfirmation">Voulez-vous vraiment effacer ce groupe du journal d\'appels?</string>
     <string name="imei">Code IMEI</string>
     <string name="meid">MEID</string>
     <string name="voicemail">Messagerie vocale</string>
@@ -255,6 +257,7 @@
     <string name="search_results_searching">Recherche en cours...</string>
     <string name="menu_display_all">Afficher tous les contacts</string>
     <string name="menu_display_only_phones">Afficher uniquement les contacts avec un numéro de téléphone</string>
+    <string name="menu_sim_contact">Contacts de la carte SIM</string>
     <string name="openDialKeyboard">Pavé numérique</string>
     <string name="openDialer">Téléphone</string>
     <string name="nameContactsCount">Rechercher %d Contacts</string>
@@ -313,6 +316,7 @@
     <string name="callrecordview_menu_show_accepted">Afficher uniquement les appels reçus</string>
     <string name="callrecordview_menu_show_stranger">Afficher uniquement les appels inconnus</string>
     <string name="callrecordview_menu_delete_one">Effacer</string>
+    <string name="callrecordview_menu_delete_group">Effacer</string>
     <string name="callrecordview_menu_delete_all">Effacer tous les appels</string>
     <string name="callrecordview_menu_delete_missed">Effacer les appels manqués</string>
     <string name="callrecordview_menu_delete_called">Effacer les appels émis</string>
@@ -418,6 +422,7 @@
     <string name="birthday_remind">Rappel d\'anniversaire</string>
     <string name="birthday_remind_notify">Aujourd\'hui %s fête son %s, n\'oubliez pas de lui souhaiter et/ou de lui offrir un cadeau</string>
     <string name="birthday_remind_3days_notify">Il reste 3 jours avant que %s fête son %s, n\'oubliez pas de lui acheter une carte et/ou un cadeau</string>
+    <string name="dialer_empty_text_loading">Chargement...</string>
     <string name="dialer_empty_text_no_call_log">Pas d\'enregistrements d\'appel</string>
     <string name="dialer_empty_text_no_search_result">Aucun contact trouvé</string>
     <string name="menu_remove_duplicate">Supprimer les doublons</string>

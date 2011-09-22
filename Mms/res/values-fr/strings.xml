@@ -368,4 +368,5 @@
     <string name="text_in_popup_saved_to_clipboard">Le texte édité dans la fenêtre de prévisualisation a été copié dans le presse-papiers</string>
     <string name="guild_add_recipients">Cliquez ici pour ajouter les destinataires au carnet d\'adresses</string>
     <string name="guild_add_attachments">Cliquez ici pour ajouter pièces jointes ou smileys au message</string>
+    <string name="privacy_mode_hint">Impossible d\'envoyer un SMS en mode privé</string>
 </resources>

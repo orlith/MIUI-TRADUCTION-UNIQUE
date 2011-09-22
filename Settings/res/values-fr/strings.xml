@@ -188,6 +188,7 @@
     <string name="date_and_time_settings_title">Date et heure</string>
     <string name="date_time_auto">Synchroniser</string>
     <string name="date_time_auto_summary">Synchronise la date et l\'heure via les connexions de données et/ou Wi-Fi</string>
+    <string name="date_time_sync_when_startup">Synchroniser l\'heure au démarrage</string>
     <string name="date_time_24hour">Utiliser le format 24 h</string>
     <string name="date_time_set_time">Définir l\'heure</string>
     <string name="date_time_set_timezone">Définir le fuseau horaire</string>
@@ -352,6 +353,7 @@
     <string name="wifi_secured">Sécurisé par %1$s</string>
     <string name="wifi_secured_with_status">%2$s, sécurisé par %1$s</string>
     <string name="wifi_connect">Se connecter</string>
+    <string name="wifi_setting">Réglage</string>
     <string name="wifi_forget">Retirer</string>
     <string name="wifi_save">Enregistrer</string>
     <string name="wifi_cancel">Annuler</string>
@@ -895,6 +897,7 @@
     <string name="vpn_a_username">un nom d\'utilisateur</string>
     <string name="vpn_a_password">un mot de passe</string>
     <string name="vpn_save_username">Mémoriser le nom d\'utilisateur</string>
+    <string name="vpn_save_password">Se souvenir du mot de passe</string>
     <string name="vpn_connect_button">Se connecter</string>
     <string name="vpn_yes_button">Oui</string>
     <string name="vpn_no_button">Non</string>
@@ -1108,7 +1111,7 @@
     <string name="default_dialer">App. tel. par défaut</string>
     <string name="default_sms">SMS par défaut</string>
     <string name="clear_default">Restaurer</string>
-    <string name="trackball_settings">Paramètres du trackball (si équipé)</string>
+    <string name="trackball_settings">Paramètres du trackball</string>
     <string name="led_settings">Paramètres LED</string>
     <string name="led_colors_summary">Définit la couleur utilisée</string>
     <string name="led_frequence_summary">Définit la fréquence de clignotement</string>
@@ -1251,8 +1254,8 @@
     <string name="compatibility_mode_label">Mode Compatibilité</string>
     <string name="compatibility_mode_summery_on">Cette application fonctionne en mode de compatibilité</string>
     <string name="compatibility_mode_summery_off">Cette application fonctionne normalement</string>
-    <string name="compatibility_mode_toggle_on">Activer</string>
-    <string name="compatibility_mode_toggle_off">Désactiver</string>
+    <string name="compatibility_mode_toggle_on">Activé</string>
+    <string name="compatibility_mode_toggle_off">Désactivé</string>
     <string name="auto_agps">Utiliser l\'aGPS</string>
     <string name="auto_agps_sum">Une fois activé, l\'éphémérides du positionnement des satellites sera téléchargé hebdomadairement en utilisant automatiquement les réseaux Wi-Fi et/ou GSM</string>
     <string name="gps_config_title">Configuration du serveur aGPS</string>
@@ -1385,8 +1388,8 @@
     <string name="cit_charger_current">Courant de charge: %dmA</string>
     <string name="cit_charger_current_error">Impossible d\'obtenir la valeur du courant de charge</string>
     <string name="miui_copyright_title">Copyright</string>
-    <string name="miui_license_title">Conditions d\'utilisation</string>
-    <string name="miui_market_license_title">Informations relatives au App Market MIUI</string>
+    <string name="miui_user_agreement_title">Accord utilisateur</string>
+    <string name="miui_privacy_policy_title">Politique de confidentialité</string>
     <string name="sound_settings">Paramètres audio</string>
     <string name="silent_mode_title">Mode silencieux</string>
     <string name="silent_mode_summary">Aucun son, sauf pour le multimédia et le réveil</string>
