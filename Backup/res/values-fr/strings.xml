@@ -12,7 +12,7 @@
     <string name="backup_failed">La sauvegarde a échoué, veuillez réessayer</string>
     <string name="backup_recently">\u0020(dernière)</string>
     <string name="sdcard_unmounted">La carte SD n\'est pas présente, le programme va se fermer!</string>
-    <string name="backup_progress">Sauvegarde en cours...</string>
+    <string name="backup_progress">Sauvegarde en cours...\u0020</string>
     <string name="button_ok">OK</string>
     <string name="backup_finished">Sauvegarde terminée</string>
     <string name="backup_report">Rapport de sauvegarde</string>
@@ -122,7 +122,7 @@
     <string name="cancel_backup">Arrêter la sauvegarde</string>
     <string name="restore_contact">Restaurer des contacts</string>
     <string name="restore_contact_content">La restauration du carnet d\'adresse peut conduire à duplication de certaines fiches. Etes-vous sur de vouloir restaurer ce carnet d\'adresses ?\nNote: Vous pouvez fusionner les contacts en double à partir des paramètres du carnet d\'adresses.</string>
-    <string name="progress_restore_hint">Restauration des données</string>
+    <string name="progress_restore_hint">Restauration des données\u0020</string>
     <string name="cancel_restore">Annuler</string>
     <string name="local_select_sysdata">Données système</string>
     <string name="local_select_userapp">Programmes</string>
