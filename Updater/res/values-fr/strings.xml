@@ -43,7 +43,7 @@
     <string name="verify_and_apply_dialog_message">Vérification de la somme MD5</string>
     <string name="apply_existing_update_md5error_title">Erreur sur la somme MD5 du fichier</string>
     <string name="file_not_found_error_message">Fichier non trouvé...</string>
-    <string name="apply_upload_info_message_manually">Installer en recovery manuellement la ROM</string>
+    <string name="apply_upload_info_message_manually">Installer la ROM manuellement en recovery</string>
     <string name="apply_upload_info_message">Mise à jour disponible</string>
     <string name="apply_buddy_update_info_message">Mise à jour système ami disponible</string>
     <string name="system_backup_button_text">Sauvegarder votre rom avant.</string>
@@ -68,7 +68,7 @@
     <string name="test_version">Version de développement</string>
     <string name="about_device">A propos de votre appareil</string>
     <string name="emegency_version">Version d\'urgence</string>
-    <string name="wifi_not_available_title">Wi-fI indisponible</string>
+    <string name="wifi_not_available_title">Wi-fi indisponible</string>
     <string name="wifi_not_available_body">Le Wi-fi est indisponible. Il est déconseillé de télécharger depuis une autre source réseau.</string>
     <string name="widget_title">Mise à jour MIUI</string>
     <string name="widget_feedback">Donnez votre avis</string>
