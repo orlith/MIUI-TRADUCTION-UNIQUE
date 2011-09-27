@@ -630,8 +630,8 @@
     <string name="application_size_label">Application</string>
     <string name="data_size_label">Données</string>
     <string name="uninstall_text">Désinstaller</string>
-    <string name="disable_text">Désactiver</string>
-    <string name="enable_text">Activer</string>
+    <string name="disable_text">Désactivé</string>
+    <string name="enable_text">Activé</string>
     <string name="clear_user_data_text">Effacer les données</string>
     <string name="app_factory_reset">Désinstaller les mises à jour</string>
     <string name="auto_launch_enable_text">Vous avez choisi de lancer cette application par défaut pour certaines actions.</string>
@@ -1187,7 +1187,7 @@
     <string name="advanced_mode">Mode avancé</string>
     <string name="backlight_title">Paramètres ajustement automatique</string>
     <string name="light_filter_title">Filtre du capteur de luminosité</string>
-    <string name="light_filter_enabled_title">Activer</string>
+    <string name="light_filter_enabled_title">Activé</string>
     <string name="light_filter_enabled_summary">Moyenne les mesures du capteur sur une période pour réduire le scintillement.</string>
     <string name="light_filter_window_title">Longueur de la période</string>
     <string name="light_filter_window_summary">Temps pendant lequel les mesures du capteur sont moyennées pour le filtrage.</string>
