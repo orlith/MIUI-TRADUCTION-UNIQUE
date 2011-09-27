@@ -24,7 +24,7 @@
     <string name="status_bar_date_format_lock">EEEE dd MMMM</string>
     <string name="usb_mode_notification">Stockage USB</string>
     <string name="usb_mode_dont_ask">Ne plus demander</string>
-    <string name="usb_mode_mount_storage_title">Ouvrir le stockage de données USB</string>
+    <string name="usb_mode_mount_storage_title">Partager le stockage via la connexion USB?</string>
     <string name="mount_storage">Monter</string>
     <string name="dismount_storage">Démonter</string>
     <string name="move_data_to_sdcard_title">Déplacer les données vers la carte SD</string>

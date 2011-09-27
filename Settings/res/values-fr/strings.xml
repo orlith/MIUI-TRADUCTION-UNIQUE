@@ -1074,7 +1074,7 @@
     <string name="pc_connection_settings_title">Réglages USB</string>
     <string name="ask_user_usb_mode">Toujours demander</string>
     <string name="default_usb_mode">Réglage par défaut</string>
-    <string name="usb_mode_mount_storage">Activer le partage USB</string>
+    <string name="usb_mode_mount_storage">Partager le stockage USB</string>
     <string name="key_settings_title">Boutons</string>
     <string name="key_settings">Configuration des boutons</string>
     <string name="back_long_press">Bouton [RETOUR]</string>
