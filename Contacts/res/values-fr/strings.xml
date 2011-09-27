@@ -315,8 +315,8 @@
     <string name="callrecordview_menu_show_called">Afficher uniquement les appels émis</string>
     <string name="callrecordview_menu_show_accepted">Afficher uniquement les appels reçus</string>
     <string name="callrecordview_menu_show_stranger">Afficher uniquement les appels inconnus</string>
-    <string name="callrecordview_menu_delete_one">Effacer</string>
-    <string name="callrecordview_menu_delete_group">Effacer</string>
+    <string name="callrecordview_menu_delete_one">Effacer cet appel</string>
+    <string name="callrecordview_menu_delete_group">Effacer tout le groupe</string>
     <string name="callrecordview_menu_delete_all">Effacer tous les appels</string>
     <string name="callrecordview_menu_delete_missed">Effacer les appels manqués</string>
     <string name="callrecordview_menu_delete_called">Effacer les appels émis</string>
