@@ -176,6 +176,8 @@
     <string name="proxy_settings_summary">Activer le proxy, configurer l\'adresse du serveur proxy et le numéro de port</string>
     <string name="proxy_quick_toggle_title">Utiliser un proxy</string>
     <string name="proxy_wifi_only_title">WiFi uniquement</string>
+    <string name="proxy_enable_ap_setting">Utiliser des paramètres spécifiques pour ce weekend</string>
+    <string name="wifi_clear_proxy">Remettre à défaut les paramètres de proxy</string>
     <string name="cancel">Annuler</string>
     <string name="settings_label">Paramètres</string>
     <string name="settings_shortcut">Paramètres</string>
@@ -1049,6 +1051,8 @@
     <string name="status_bar_toggle_style_single_page">Page</string>
     <string name="status_bar_toggle_settings">Barre d\'accès rapide</string>
     <string name="status_bar_toggle_arrangement">Edition de la barre d\'accès rapide</string>
+    <string name="status_bar_toggle_divider_page">%1$d éléments placés au dessus du séparateur seront affichés.</string>
+    <string name="status_bar_toggle_divider_list">Les éléments placés au dessus du séparateur seront affichés.</string>
     <string name="menu_reset_toggle_settings">Rétablir les paramètres par défaut</string>
     <string name="status_bar_toggle_waiting">Application du changement……</string>
     <string name="network_category">Réseau</string>
@@ -1097,6 +1101,8 @@
     <string name="camera_key_action_shortcut_search">Recherche</string>
     <string name="camera_key_action_shortcut_call">Appeler</string>
     <string name="camera_key_action_shortcut_wake">Activer l\'écran</string>
+    <string name="multi_touch_points_category_title">Écran multi-touch</string>
+    <string name="multi_touch_points_preference">Redémarrer pour activer</string>
     <string name="trackball_wake_title">Réveil par Trackball</string>
     <string name="device_cpu2_info">Double coeur</string>
     <string name="install_development_settings_title">Installation et débogage</string>
@@ -1417,6 +1423,8 @@
     <string name="ringtone_category">Sonneries</string>
     <string name="incoming_call_ringtone_settings_title">Appels</string>
     <string name="notification_ringtone_settings_title">Notifications</string>
+    <string name="sms_received_sound_settings_title">Son de notification des SMS</string>
+    <string name="sms_delivered_sound_settings_title">Son des accusés de réception SMS</string>
     <string name="dtmf_tone_enable_title">Tonalité des touches</string>
     <string name="dtmf_tone_enable_summary_on">Émet un son lors de l\'appui sur une touche</string>
     <string name="dtmf_tone_enable_summary_off">Pas de son lors de l\'appui sur une touche</string>    

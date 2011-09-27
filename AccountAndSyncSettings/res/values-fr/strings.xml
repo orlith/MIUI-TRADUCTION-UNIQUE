@@ -94,4 +94,5 @@
     <string name="enable_mitalk_dialog_message">Activer la synchronisation de votre compte Mi-Talk vous permettra de recevoir les notifications des messages de vos amis, valider?</string>
     <string name="disable_mitalk_dialog_title">Désactiver la synchro Mi-Talk</string>
     <string name="disable_mitalk_dialog_message">Vous ne recevrez donc plus les notifications lorsque vos amis vous enverront des messages, êtes vous d\'accord?</string>
+    <string name="logoff_account_label">Se déconnecter</string>
 </resources>

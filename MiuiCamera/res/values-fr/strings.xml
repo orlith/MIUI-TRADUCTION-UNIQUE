@@ -16,6 +16,7 @@
     <string name="video_reach_size_limit">Limite de taille atteinte.</string>
     <string name="burst_reach_count_limit">Limite du nombre de rafale atteinte.</string>
     <string name="anti_shake_time_expired">Temps écoulé, prenez la photo.</string>
+    <string name="removed">Supprimé</string>
     <string name="details_ok">OK</string>
     <string name="switch_to_camera_lable">Appareil Photo</string>
     <string name="switch_to_video_lable">Vidéo</string>
@@ -65,7 +66,6 @@
     <string name="pref_camera_focusmode_macro">Macro</string>
     <string name="pref_camera_focusmode_fixed">Fixe</string>
     <string name="pref_camera_focusmode_edof">EDOF</string>
-    <string name="pref_camera_focusmode_continuous_video">Vidéo en continu</string>
     <string name="flash_auto">Auto</string>
     <string name="flash_on">On</string>
     <string name="flash_off">Off</string>
@@ -126,6 +126,11 @@
     <string name="pref_camera_autoexposure_average">Cadre moyen</string>
     <string name="pref_camera_autoexposure_center">Centre pondéré</string>
     <string name="pref_camera_autoexposure_spot">Mesure spot</string>
+    <string name="pref_camera_afzone">Selectable zone AF</string>
+    <string name="pref_camera_afzone_auto">Auto</string>
+    <string name="pref_camera_afzone_average">Frame average</string>
+    <string name="pref_camera_afzone_center">Center weighted</string>
+    <string name="pref_camera_afzone_spot">Spot metering</string>
     <string name="video_settings">Paramètres vidéos</string>
     <string name="pref_video_quality">Qualité vidéo</string>
     <string name="pref_video_quality_720p">720P (30mn)</string>
@@ -134,4 +139,5 @@
     <string name="pref_video_quality_mms">MMS (faible, 30 s)</string>
     <string name="pref_video_continuous_focus">Focus continu</string>
     <string name="tag_coloreffect">COLOR_EFFECT_INDEX</string>
+    <item type="string" name="APKTOOL_DUMMY_008b">false</item>
 </resources>

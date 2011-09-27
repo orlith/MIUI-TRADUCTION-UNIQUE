@@ -120,7 +120,7 @@
     <string name="pre_set_full_screen">Contrôle du mode plein écran</string>
     <string name="pre_set_date_management">Données du navigateur</string>
     <string name="forum_post_empty">Le contenu ne peut être vide</string>
-    <string name="download_action_start">Commencer téléchargement</string>
+    <string name="download_action_start">Téléchargement en cours</string>
     <string name="menu_settings">Réglages</string>
     <string name="menu_select_text">Copier le texte</string>
     <string name="toast_select_text">Sélectionnez le texte à copier</string>

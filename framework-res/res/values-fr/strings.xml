@@ -875,6 +875,10 @@
     <string name="ime_action_next">Suivant</string>
     <string name="ime_action_done">OK</string>
     <string name="ime_action_default">Exécuter</string>
+    <string name="managed_roaming_title">Gestion de l\'itinérance</string>
+    <string name="managed_roaming_dialog_content">Un réseau avec un service limité a été trouvé. Voulez-vous initier une nouvelle recherche?</string>
+    <string name="managed_roaming_dialog_ok_button">Oui</string>
+    <string name="managed_roaming_dialog_cancel_button">Non</string>
     <string name="dial_number_using">Composer le numéro\n en utilisant %s</string>
     <string name="create_contact_using">Ajouter un contact\n en utilisant %s</string>
     <string name="accessibility_compound_button_selected">Sélectionné</string>
@@ -941,6 +945,7 @@
     <string name="status_bar_toggle_flight_mode">Avion</string>
     <string name="status_bar_toggle_lock">Verrouillage</string>
     <string name="status_bar_toggle_ac">Contrôle d\'accès</string>
+    <string name="status_bar_toggle_network_type">Type de réseau</string>
     <string name="status_bar_toggle_torch">Torche</string>
     <string name="status_bar_toggle_reboot">Redémarrer</string>
     <string name="status_bar_toggle_shutdown">Eteindre</string>
@@ -1322,4 +1327,6 @@
     <string name="keyguard_incorrect_pin_with_retry_count">Code erroné. Il vous reste %d essais.</string>
     <string name="lockscreen_unlock_sim_via_puk">Utilisez le code PUK pour débloquer la carte SIM</string>
     <string name="unable_sync_ntp_withou_connection">Impossible de synchroniser l\'heure, la tâche sera accomplie automatiquement dès que possible.</string>
+    <string name="choose_default_input_method">Sélectionner le clavier par défaut</string>
+    <string name="change_default_input_method">Vous pourrez changer le clavier par défaut en faisant un appui long dans n\'importe quelle zone de saisie.</string>
 </resources>

@@ -42,13 +42,6 @@
     <string name="prompt_reading">Lecture...</string>
     <string name="prompt_sending">Envoi...</string>
     <string name="prompt_writing">Écriture...</string>
-    <string name="menu_reset_contact">réinitialisation (carnet d\'adresses)</string>
-    <string name="menu_reset_calllog">réinitialisation Configuration (historique d\'appel)</string>
-    <string name="menu_reset_sms">réinitialisation (SMS)</string>
-    <string name="menu_reset_task">Réinitialiser les tâches de fond</string>
-    <string name="menu_debug_host">Serveur de test</string>
-    <string name="menu_formal_host">Serveur officiel</string>
-    <string name="ok_reset">Réinitialisation terminée</string>
     <string name="backup_new">Ajouter</string>
     <string name="backup_update">Modifier</string>
     <string name="backup_delete">Supprimer</string>

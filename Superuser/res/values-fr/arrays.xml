@@ -12,7 +12,7 @@
     </string-array>
     <string-array name="pref_status_icon_type_entries">
         <item>Point</item>
-        <item>Emoticon</item>
+        <item>Emoticône</item>
     </string-array>
     <string-array name="pref_status_icon_type_values">
         <item>point</item>
@@ -31,11 +31,11 @@
         <item>yyyy/MM/dd</item>
     </string-array>
     <string-array name="pref_notification_entries">
-        <item>Aucun</item>
+        <item>Fenêtre Pop-up</item>
         <item>Notification</item>
     </string-array>
     <string-array name="pref_notification_values">
-        <item>aucun</item>
+        <item>toast</item>
         <item>notification</item>
     </string-array>
 </resources>

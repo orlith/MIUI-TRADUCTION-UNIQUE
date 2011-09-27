@@ -10,6 +10,7 @@
         <item>Dictaphone</item>
         <item>Navigateur</item>
         <item>Appareil photo</item>
+        <item>Gestionnaire de fichiers</item>
     </string-array>
     <string-array name="system_data_label">
         <item>Contacts</item>
@@ -17,10 +18,11 @@
         <item>SMS</item>
         <item>Paramètres système</item>
         <item>Paramètres Wi-Fi</item>
-        <item>Présentation de bureau</item>
+        <item>Agencement du bureau</item>
         <item>Paramètres d\'alarme</item>
         <item>Notes</item>
         <item>Filtrage d\'appel/message</item>
+        <item>Thème actuel</item>
     </string-array>
     <string-array name="app_type_desc">
         <item>Données</item>
