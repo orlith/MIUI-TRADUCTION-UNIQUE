@@ -20,9 +20,9 @@
         <item>Jour-Mois-Année</item>
     </string-array>
     <string-array name="animations_entries">
-        <item>Non</item>
-        <item>Peu</item>
-        <item>Tous</item>
+        <item>*</item>
+        <item>**</item>
+        <item>***</item>
     </string-array>
     <string-array name="access_control_privacy_mode_entries">
         <item>Désactivé</item>
@@ -92,7 +92,7 @@
         <item>1m</item>
         <item>5m</item>
         <item>10m</item>
-        <item>never</item>
+        <item>jamais</item>
     </string-array>
     <string-array name="screen_timeout_values">
         <item>30000</item>
@@ -280,9 +280,9 @@
         <item>2</item>
     </string-array>
     <string-array name="haptic_feedback_level_entries">
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
+        <item>*</item>
+        <item>**</item>
+        <item>***</item>
     </string-array>
     <string-array name="haptic_feedback_level_values">
         <item>1</item>

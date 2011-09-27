@@ -934,7 +934,7 @@
     <string name="global_action_privacy_mode_off_status">Mode privé désactivé</string>
     <string name="status_bar_toggle_divider">Séparateur</string>
     <string name="status_bar_toggle_wifi">WIFI</string>
-    <string name="status_bar_toggle_data">3G</string>
+    <string name="status_bar_toggle_data">Données</string>
     <string name="status_bar_toggle_bluetooth">Bluetooth</string>
     <string name="status_bar_toggle_rotate">Rotation</string>
     <string name="status_bar_toggle_brightness">Luminosité</string>
