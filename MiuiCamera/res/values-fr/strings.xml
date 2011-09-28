@@ -53,8 +53,8 @@
     <string name="pref_camera_playback">Aperçu</string>
     <string name="pref_camera_referenceline">Guide</string>
     <string name="pref_camera_referenceline_none">Non</string>
-    <string name="pref_camera_referenceline_magicsquare">Cadre1</string>
-    <string name="pref_camera_referenceline_goldenratio">Cadre2</string>
+    <string name="pref_camera_referenceline_magicsquare">Cadre 1</string>
+    <string name="pref_camera_referenceline_goldenratio">Cadre 2</string>
     <string name="pref_camera_scenedetect">Détecteur de scène</string>
     <string name="pref_camera_lensshade">Anti-reflets</string>
     <string name="pref_camera_skintone_enhancement">Optimisation de la teinte de peau</string>

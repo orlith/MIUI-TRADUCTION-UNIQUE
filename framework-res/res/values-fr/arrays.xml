@@ -242,6 +242,7 @@
         <item>255</item>
         <item>255</item>
         <item>255</item>
+        <item>0</item>
     </integer-array>
     <array name="config_twoDigitNumberPattern" />
     <array name="config_sms_enabled_single_shift_tables" />

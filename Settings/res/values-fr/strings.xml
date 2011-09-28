@@ -1089,7 +1089,7 @@
     <string name="media_button">Bouton [MEDIA]</string>
     <string name="preferred_media_app_summary">Choisir l\'application</string>
     <string name="no_media_button_receiver">Aucun bouton</string>
-    <string name="camera_key_action_title">Bouton MI</string>
+    <string name="camera_key_action_title">Bouton [MI]</string>
     <string name="camera_key_action_setting_title">Appuyer sur le bouton MI</string>
     <string name="camera_key_action_category_title">Bouton de prise de vue dans l\'appareil photo</string>
     <string name="camera_key_action_none_title">Ne rien faire</string>

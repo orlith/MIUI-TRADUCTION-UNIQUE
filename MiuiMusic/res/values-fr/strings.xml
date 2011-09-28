@@ -97,6 +97,7 @@
     <string name="android_album_settings">Pochettes d\'album</string>
     <string name="listen_to_music_online_settings">Musique en ligne</string>
     <string name="flow_save_hint">Conseil réseau 3G</string>
+    <string name="flow_save_confirm">J\'ai compris</string>
     <string name="others">Autre(s)</string>
     <string name="play_and_download">Ecouter et télécharger</string>
     <string name="screen_bright_wake">Illumination de l\'écran</string>

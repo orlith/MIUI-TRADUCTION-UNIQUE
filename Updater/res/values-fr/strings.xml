@@ -70,7 +70,7 @@
     <string name="emegency_version">Version d\'urgence</string>
     <string name="wifi_not_available_title">Wi-fi indisponible</string>
     <string name="wifi_not_available_body">Le Wi-fi est indisponible. Il est déconseillé de télécharger depuis une autre source réseau.</string>
-    <string name="widget_title">Mise à jour MIUI</string>
+    <string name="widget_title">Mise à jour OTA</string>
     <string name="widget_feedback">Donnez votre avis</string>
     <string name="boot_recovery">Redémarrer en recovery</string>
     <string name="applying_rom_message">Application de la rom</string>
@@ -83,8 +83,8 @@
     <string name="no_proper_updates">Pas de mise à jour adaptée</string>
     <string name="emegency_update_helper">Aide à la mise à jour</string>
     <string name="emegency_update_size">Taille:%s</string>
-    <string name="sign_in_info">Vous utilisez actuellement la ROM MIUI-FRANCE.com %3$s</string>
-    <string name="sign_in_add_account_helper">Si vous rencontrez des difficultés, rendez-vous sur MIUI.com</string>
+    <string name="sign_in_info">Vous utilisez actuellement la rom MIUI-FRANCE.com %3$s</string>
+    <string name="sign_in_add_account_helper">Si vous rencontrez des difficultés, rendez-vous sur passport.xiaomi.com</string>
     <string name="move_data_to_sdcard_title">Vers la carte SD</string>
     <string name="move_data_to_sdcard_not_enough_space_message">Besoin de migrer environ %dM de données, mais pas assez d\'espace libre sur la carte SD.</string>
     <string name="moving_data_to_sdcard_message">Migration des données vers la carte SD, ne pas retirer celle-ci</string>
