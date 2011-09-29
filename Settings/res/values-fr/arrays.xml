@@ -330,7 +330,7 @@
     <string-array name="app_install_location_entries">
         <item>Mémoire interne du mobile</item>
         <item>Carte SD</item>
-        <item>Laisser le système décider</item>
+        <item>Laisser le système choisir</item>
     </string-array>
     <string-array name="app_install_location_values">
         <item>device</item>

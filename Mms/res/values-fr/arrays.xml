@@ -92,7 +92,7 @@
         <item>:P</item>
         <item>ōk</item>
         <item>∠※</item>
-        <item>:-</item>
+        <item>:-J</item>
         <item>:)</item>
         <item>:(</item>
         <item>:D</item>
@@ -150,5 +150,4 @@
         <item>10 secondes</item>
         <item>Personnalisé...</item>
     </string-array>
-    <item type="array" name="APKTOOL_DUMMY_0006">false</item>
 </resources>

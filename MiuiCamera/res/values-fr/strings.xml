@@ -66,6 +66,7 @@
     <string name="pref_camera_focusmode_macro">Macro</string>
     <string name="pref_camera_focusmode_fixed">Fixe</string>
     <string name="pref_camera_focusmode_edof">EDOF</string>
+    <string name="pref_camera_focusmode_continuous_video">Focus vidéo continu</string>
     <string name="flash_auto">Auto</string>
     <string name="flash_on">On</string>
     <string name="flash_off">Off</string>
@@ -126,11 +127,6 @@
     <string name="pref_camera_autoexposure_average">Cadre moyen</string>
     <string name="pref_camera_autoexposure_center">Centre pondéré</string>
     <string name="pref_camera_autoexposure_spot">Mesure spot</string>
-    <string name="pref_camera_afzone">Selectable zone AF</string>
-    <string name="pref_camera_afzone_auto">Auto</string>
-    <string name="pref_camera_afzone_average">Frame average</string>
-    <string name="pref_camera_afzone_center">Center weighted</string>
-    <string name="pref_camera_afzone_spot">Spot metering</string>
     <string name="video_settings">Paramètres vidéos</string>
     <string name="pref_video_quality">Qualité vidéo</string>
     <string name="pref_video_quality_720p">720P (30mn)</string>
@@ -139,5 +135,4 @@
     <string name="pref_video_quality_mms">MMS (faible, 30 s)</string>
     <string name="pref_video_continuous_focus">Focus continu</string>
     <string name="tag_coloreffect">COLOR_EFFECT_INDEX</string>
-    <item type="string" name="APKTOOL_DUMMY_008b">false</item>
 </resources>
