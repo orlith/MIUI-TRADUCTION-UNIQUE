@@ -127,9 +127,14 @@
     <string name="pref_camera_autoexposure_average">Cadre moyen</string>
     <string name="pref_camera_autoexposure_center">Centre pondéré</string>
     <string name="pref_camera_autoexposure_spot">Mesure spot</string>
+    <string name="pref_camera_afzone">Selectable zone AF</string>
+    <string name="pref_camera_afzone_auto">Auto</string>
+    <string name="pref_camera_afzone_average">Frame average</string>
+    <string name="pref_camera_afzone_center">Center weighted</string>
+    <string name="pref_camera_afzone_spot">Spot metering</string>
     <string name="video_settings">Paramètres vidéos</string>
     <string name="pref_video_quality">Qualité vidéo</string>
-    <string name="pref_video_quality_720p">720P (30mn)</string>
+    <string name="pref_video_quality_hd">720p (30mn)</string>
     <string name="pref_video_quality_high">Élevée (30 mn)</string>
     <string name="pref_video_quality_low">Faible (30 mn)</string>
     <string name="pref_video_quality_mms">MMS (faible, 30 s)</string>
