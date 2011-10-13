@@ -1104,7 +1104,7 @@
     <string name="multi_touch_points_category_title">Écran multi-touch</string>
     <string name="multi_touch_points_preference">Redémarrer pour activer</string>
     <string name="trackball_wake_title">Réveil par Trackball</string>
-    <string name="device_cpu2_info">Double coeur</string>
+    <string name="device_cpu2_info">Double coeur\u0020</string>
     <string name="install_development_settings_title">Installation et débogage</string>
     <string name="manage_applications_title">Gestionnaire d\'applications</string>
     <string name="development_debug_category">Développement et débogage</string>

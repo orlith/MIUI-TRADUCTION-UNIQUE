@@ -59,7 +59,7 @@
     <string name="new_updates_found_title">Nouvelle mise à jour détectée</string>
     <string name="new_update_content_title">Une mise à jour est disponible</string>
     <string name="update_success_title">Vous avez la dernière version!</string>
-    <string name="update_success_body_title">Vous possédez déjà la version la plus récente du système</string>
+    <string name="update_success_body_title">Pas de mise à jour disponible actuellement.</string>
     <string name="exception_while_downloading">Problème pendant le téléchargement</string>
     <string name="new_updates_found_body">De nouvelles mises à jour ont été détectées</string>
     <string name="new_updates_found_notification_title">Mises à jour disponibles!</string>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
-    <string name="common_minutes_ago">%s minutes ago</string>
-    <string name="common_hours_ago">%s hier après-midi</string>
-    <string name="common_days_ago">%s la semaine dernière</string>
+    <string name="common_minutes_ago">il y a %s minutes</string>
+    <string name="common_hours_ago">il y a %s heures</string>
+    <string name="common_days_ago">il y a %s jours</string>
     <string name="app_name">Browser</string>
     <string name="app_settings">Réglages</string>
     <string name="urltitlebar_gotourl">Aller</string>

@@ -12,7 +12,7 @@
     <string name="audio_db_artist_name">Vos enregistrements</string>
     <string name="audio_db_album_name">Enregistrements audios</string>
     <string name="audio_db_playlist_name">Mes enregistrements</string>
-    <string name="error_sdcard_access">Impossible d\'accèder à la carte SD</string>
+    <string name="error_sdcard_access">Impossible d\'accéder à la carte SD</string>
     <string name="error_app_internal">Erreur interne à l\'application</string>
     <string name="error_mediadb_new_record">Impossible de sauvegarder le son enregistré</string>
     <string name="default_record_name">enregistrement sans nom</string>
@@ -37,9 +37,9 @@
     <string name="open_file_explorer">Ouvrir l\'explorateur de fichiers</string>
     <string name="no_file">Aucun enregistrement</string>
     <string name="mark_now">(Actuel)</string>
-    <string name="second">%d seconde</string>
-    <string name="minute">%d minute</string>
-    <string name="hour">%d heure</string>
+    <string name="second">%d seconde(s)</string>
+    <string name="minute">%d minute(s)</string>
+    <string name="hour">%d heure(s)</string>
     <string name="dialog_play">Lire</string>
     <string name="dialog_send">Envoyer</string>
     <string name="dialog_delete">Supprimer</string>

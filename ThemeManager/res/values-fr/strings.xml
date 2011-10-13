@@ -34,7 +34,7 @@
     <string name="theme_component_title_others">Autres</string>
     <string name="theme_component_title_all">Thèmes</string>
     <string name="apply_theme_no_select_message">Veuillez sélectionner le module à appliquer!</string>
-    <string name="apply_lockscreen_paper_tips">Le nouvel écran de verrouillage peut ne pas être visible immédiatement à cause de celui que vous utilisez actuellement!</string>
+    <string name="apply_lockscreen_paper_tips">Le nouvel écran de verrouillage pourrait ne pas être visible immédiatement! Pas d\'inquiétude il apparaîtra au prochain redémarrage.</string>
     <string name="theme_import">Importer à partir de la carte SD</string>
     <string name="theme_select_others">Autres</string>
     <string name="third_party_pickers_activity_title">Définir %1$s</string>
@@ -42,7 +42,7 @@
     <string name="desktop_wallpaper">Fond d\'écran</string>
     <string name="live_wallpaper">Fond d\'écran animé</string>
     <string name="lockscreen_wallpaper">Ecran de verrouillage</string>
-    <string name="component_settings_title">Customiser le thème</string>
+    <string name="component_settings_title">Personnaliser le thème</string>
     <string name="component_select_title">Sélection des/du module(s) (%1$s)</string>
     <string name="component_include_title">Contient les modules (%1$s)</string>
     <string name="component_screen_title">Fond d\'écran</string>

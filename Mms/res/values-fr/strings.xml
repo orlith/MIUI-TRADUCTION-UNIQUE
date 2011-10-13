@@ -302,7 +302,7 @@
     <string name="pref_time_auto_group_title">Regroupement intelligent</string>
     <string name="pref_time_auto_group_summary">Grouper les messages par heure</string>
     <string name="pref_time_all_title">Complet</string>
-    <string name="pref_time_all_summary">Show time for each message</string>
+    <string name="pref_time_all_summary">Afficher l\'heure à chaque message</string>
     <string name="pref_messaging_bubble_title">Bulles</string>
     <string name="pref_messaging_list_title">Liste</string>
     <string name="bookmark">Favoris</string>
@@ -364,7 +364,7 @@
     <string name="chenghu_disable_mms">La modification de l\'adresse MMS est invalide</string>
     <string name="recent_contact_list_title">Contacts récents</string>
     <string name="conversation_list_empty_text">Aucun message</string>
-  <string name="non_english_subject_limit">Maximum 13 caractères pour un sujet non anglophone</string>
+    <string name="non_english_subject_limit">Maximum 13 caractères pour un sujet non anglophone</string>
     <string name="text_in_popup_saved_to_clipboard">Le texte édité dans la fenêtre de prévisualisation a été copié dans le presse-papiers</string>
     <string name="guild_add_recipients">Cliquez ici pour ajouter les destinataires au carnet d\'adresses</string>
     <string name="guild_add_attachments">Cliquez ici pour ajouter pièces jointes ou smileys au message</string>
