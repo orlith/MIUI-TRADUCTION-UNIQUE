@@ -452,6 +452,7 @@
     <string name="handon_ringer_summary">Le volume de la sonnerie diminue lorsque vous prenez votre téléphone. Inactif en mode vibreur.</string>
     <string name="allow_3rd_app_listen_phone_event_title">Autoriser l\'accès</string>
     <string name="allow_3rd_app_listen_phone_event_summary">Autoriser l\'accès aux données de l\'application téléphonique par d\'autres applications</string>
+    <string name="allow_3rd_app_listen_phone_event_reboot_prompt">Redémarrage nécessaire pour valider le réglage choisi.\nVoulez vous redémarrer maintenant?</string>
     <string name="show_quick_contact_badge_title">Afficher avatars</string>
     <string name="set_smsc_address_title">Numéro du centre de messagerie</string>
     <string name="get_smsc_address_error">Impossible d\'obtenir le numéro du centre de messagerie, essayez plus tard SVP.</string>

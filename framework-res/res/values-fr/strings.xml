@@ -875,6 +875,10 @@
     <string name="ime_action_next">Suivant</string>
     <string name="ime_action_done">OK</string>
     <string name="ime_action_default">Exécuter</string>
+    <string name="managed_roaming_title">Gestion de l\'itinérance</string>
+    <string name="managed_roaming_dialog_content">Le système a trouvé un réseau avec service limité. Voulez vous initier une nouvelle recherche?</string>
+    <string name="managed_roaming_dialog_ok_button">Yes</string>
+    <string name="managed_roaming_dialog_cancel_button">No</string>
     <string name="dial_number_using">Composer le numéro\n en utilisant %s</string>
     <string name="create_contact_using">Ajouter un contact\n en utilisant %s</string>
     <string name="accessibility_compound_button_selected">Sélectionné</string>
