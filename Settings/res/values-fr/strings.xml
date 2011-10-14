@@ -1463,4 +1463,7 @@
     <string name="lpa_decode_summary">Cela aura un impact sur la consommation de batterie, le spectre musical et l\'égaliseur. Vous devrez également redémarrer le système pour valider ce choix.</string>
     <string name="lpa_decode_on_hint">Activer ce mode réduira votre consommation de batterie mais désactivera le spectre musical et l\'égaliseur. OK pour redémarrer et activer ce mode.</string>
     <string name="lpa_decode_off_hint">Désactiver ce mode vous permettra d\'utiliser à nouveau le spectre musical et l\'égaliseur mais aura un impact négatif sur la consommation de batterie.</string>
+    <string name="pref_volume_category_title">Volume</string>
+    <string name="pref_volume_wake_title">Activation par les touches de volume</string>
+    <string name="pref_volume_wake_summary">Les touches de volume réactiveront l\'écran. Utile si le bouton classique est défaillant par exemple.</string>
 </resources>

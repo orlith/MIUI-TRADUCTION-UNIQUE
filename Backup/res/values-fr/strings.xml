@@ -127,10 +127,10 @@
     <string name="auto_backup_interval_hint">%d jour(s)</string>
     <string name="auto_backup_time">Sauvegarde planifiée</string>
     <string name="auto_backup_choose_title">Sauvegarde automatique</string>
-    <string name="auto_backup_choose">Projet de sauvegarde</string>
+    <string name="auto_backup_choose">Nouvelle sauvegarde</string>
     <string name="auto_backup_choose_empty">Aucun</string>
     <string name="auto_backup_progress">Sauvegarde automatique en cours...</string>
-    <string name="auto_backup_interval_min">1 jour</string>
+    <string name="auto_backup_interval_min">Tous les jours</string>
     <string name="auto_backup_interval_max">30 jours</string>
     <string name="cloud_backup">Sauvegarde</string>
     <string name="cloud_restore">Restauration</string>
@@ -149,9 +149,9 @@
     <string name="cloud_item_info_summary">(Locale %1$s | En ligne %2$s)</string>
     <string name="total_num">%d enregistrement(s) au total</string>
     <string name="cloud_restore_guide">Cliquez sur Restauration pour restaurer les données\n Vous pouvez également restaurer %s dans la sauvegarde</string>
-    <string name="import_from_xiaomi_account_hint1">1.	Prenez un téléphone qui contient vos contacts\n\n2.	Installer MiTalk et connectez-vous.\n	http://www.miliao.com\n\n3.	Entrez dans les paramètres de MiTalk et choisissez ”Sauvegarder mes contacts sur mon compte Xiaomi”</string>
+    <string name="import_from_xiaomi_account_hint1">1.	Prenez un téléphone contenant vos contacts\n\n2.	Installez MiTalk et connectez-vous.\n	http://www.miliao.com\n\n3.	Entrez dans les paramètres de MiTalk et choisissez ”Sauvegarder mes contacts sur mon compte Xiaomi”</string>
     <string name="import_from_xiaomi_account_hint2">Note: Allez à l\'étape suivante si une sauvegarde de vos contacts existe déjà.</string>
-    <string name="import_from_xiaomi_account_hint_title">Utilisez MiTalk pour sauvegarder vos contacts sur d\'autres appareils sauf le Mi-One.</string>
+    <string name="import_from_xiaomi_account_hint_title">Utilisez MiTalk pour sauvegarder vos contacts sur d\'autres appareils.</string>
     <string name="guarded_mode_dialog_title">Mode privé</string>
     <string name="guarded_mode_dialog_message">Pas de sauvegarde ou de restauration possible en mode privé</string>
 </resources>
