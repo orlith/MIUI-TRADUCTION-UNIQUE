@@ -170,31 +170,43 @@
     </integer-array>
     <integer-array name="config_virtualKeyVibePattern">
         <item>0</item>
-        <item>10</item>
-        <item>20</item>
-        <item>30</item>
+        <item>80</item>
+        <item>5</item>
     </integer-array>
     <integer-array name="config_keyboardTapVibePattern">
-        <item>30</item>
+        <item>0</item>
+        <item>80</item>
+        <item>10</item>
     </integer-array>
     <integer-array name="config_safeModeDisabledVibePattern">
         <item>0</item>
+        <item>0</item>
         <item>1</item>
+        <item>50</item>
         <item>20</item>
+        <item>0</item>
         <item>21</item>
     </integer-array>
     <integer-array name="config_safeModeEnabledVibePattern">
         <item>0</item>
+        <item>0</item>
         <item>1</item>
+        <item>50</item>
         <item>20</item>
+        <item>0</item>
         <item>21</item>
+        <item>50</item>
         <item>500</item>
+        <item>0</item>
         <item>600</item>
     </integer-array>
     <integer-array name="config_scrollBarrierVibePattern">
         <item>0</item>
+        <item>0</item>
         <item>15</item>
+        <item>50</item>
         <item>10</item>
+        <item>0</item>
         <item>10</item>
     </integer-array>
     <integer-array name="config_virtualKeyUpPattern">
@@ -203,39 +215,27 @@
         <item>5</item>
     </integer-array>
     <integer-array name="config_autoBrightnessLevels">
-        <item>160</item>
-        <item>225</item>
-        <item>320</item>
-        <item>640</item>
-        <item>1280</item>
-        <item>2600</item>
-        <item>5800</item>
-        <item>8000</item>
-        <item>10240</item>
+        <item>200</item>
+        <item>400</item>
+        <item>1000</item>
+        <item>3000</item>
+        <item>25000</item>
     </integer-array>
     <integer-array name="config_autoBrightnessLcdBacklightValues">
-        <item>21</item>
-        <item>31</item>
-        <item>41</item>
-        <item>51</item>
-        <item>95</item>
-        <item>130</item>
-        <item>186</item>
-        <item>208</item>
-        <item>231</item>
-        <item>255</item>
+        <item>35</item>
+        <item>55</item>
+        <item>70</item>
+        <item>100</item>
+        <item>250</item>
+        <item>5</item>
     </integer-array>
     <integer-array name="config_autoBrightnessButtonBacklightValues">
-        <item>50</item>
-        <item>50</item>
-        <item>50</item>
-        <item>50</item>
-        <item>120</item>
-        <item>150</item>
-        <item>180</item>
-        <item>210</item>
-        <item>230</item>
         <item>255</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
+        <item>0</item>
     </integer-array>
     <integer-array name="config_autoBrightnessKeyboardBacklightValues">
         <item>0</item>
