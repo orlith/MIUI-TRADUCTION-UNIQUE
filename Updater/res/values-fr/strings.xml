@@ -91,7 +91,7 @@
     <string name="moving_data_to_sdcard_progress_format">Achevé: %1$dKB sur %2$dKB</string>
     <string name="finish_download">Téléchargement terminé</string>
     <string name="install_whole_rom">Installer la rom complète</string>
-    <string name="check_update_policy">Vérifier seulement en Wi-fi</string>
+    <string name="check_update_policy">Réseau utilisé</string>
     <string name="check_update_when_wifi_available">Vérifier les mises à jour uniquement en Wi-fi</string>
     <string name="install_file_explorer">Installez un gestionnaire de fichiers</string>
 </resources>
