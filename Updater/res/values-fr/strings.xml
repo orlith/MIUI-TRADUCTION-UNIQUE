@@ -48,7 +48,7 @@
     <string name="apply_buddy_update_info_message">Mise à jour système ami disponible</string>
     <string name="system_backup_button_text">Sauvegarder votre rom avant.</string>
     <string name="system_backup_cancel_text">Ne pas faire de sauvegarde</string>
-    <string name="system_backup_ok_text">Sauvegarde terminée</string>
+    <string name="system_backup_ok_text">Sauvegarder d\'abord</string>
     <string name="sytemt_backup_helper">Aide contextuelle sauvegarde</string>
     <string name="system_backup_error_message">Sauvegarde non effectuée: il y a eu une erreur non déterminée</string>
     <string name="md5_check_cancelled">Vérification MD5 annulée</string>
