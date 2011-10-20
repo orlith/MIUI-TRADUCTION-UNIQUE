@@ -36,7 +36,7 @@
     <string name="permission_message">SMS</string>
     <string name="permission_root">ROOT</string>
     <string name="permission">Permissions:</string>
-    <string name="permission_read_phone_state_summary">Permissions de lire l'état de l\'appareil: en communication, raccrochage, mise en attente,etc... et appels sortants</string>
+    <string name="permission_read_phone_state_summary">Permissions de lire l\'état de l\'appareil: en communication, raccrochage, mise en attente,etc... et appels sortants</string>
     <string name="permission_call_phone_summary">Permissions de composer, répondre et mettre fin aux appels</string>
     <string name="permission_monitor_calls_summary">Permissions de surveiller les appels, le volume du micro et du haut-parleur et des services opérateurs associés</string>
     <string name="permission_message_summary">Permissions de recevoir, lire et envoyer des SMS</string>
