@@ -24,6 +24,8 @@
     <string name="review_cancel">Annuler</string>
     <string name="review_ok">OK</string>
     <string name="review_retake">Autre photo</string>
+    <string name="restore_title">Par défaut</string>
+    <string name="confirm_restore_message">Les paramètres de l\'appareil photo vont être ré-initialisés.</string>
     <string name="send_method">Envoyer à</string>
     <string name="switch_to_camera">Appareil Photo</string>
     <string name="switch_to_video">Vidéo</string>
