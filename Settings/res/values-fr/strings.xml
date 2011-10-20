@@ -90,10 +90,10 @@
     <string name="bluetooth_notif_message">Sélectionner pour associer à\u0020</string>
     <string name="device_picker">Sélecteur de périphérique Bluetooth</string>
     <string name="bluetooth_permission_request">Demande d\'autorisation Bluetooth</string>
-    <string name="bluetooth_ask_enablement">Une application sur votre téléphone demande l\'autorisation d\'activer le Bluetooth. Voulez-vous l\'activer ?</string>
-    <string name="bluetooth_ask_discovery">Une application sur votre téléphone demande l\'autorisation d\'activer le Bluetooh et de laisser votre appareil toujours identifiable par les autres périphériques bluetooth. Autorisez vous cela?</string>
+    <string name="bluetooth_ask_enablement">Une application souhaite activer le Bluetooth. Voulez-vous l\'activer?</string>
+    <string name="bluetooth_ask_discovery">Une application souhaite rendre votre téléphone identifiable par d\'autres périphériques Bluetooth durant %1$d secondes. Autorisez vous cela?</string>
     <string name="bluetooth_ask_lasting_discovery">Une application souhaite rendre votre téléphone toujours identifiable par d\'autres périphériques bluetooth. Autorisez vous cela?</string>
-    <string name="bluetooth_ask_enablement_and_discovery">Une application sur votre téléphone demande l\'autorisation d\'activer Bluetooth et de permettre à d\'autres appareils de détecter votre téléphone pendant %1$d secondes. Voulez-vous l\'activer ?</string>
+    <string name="bluetooth_ask_enablement_and_discovery">Une application souhaite activer le Bluetooth et rendre votre téléphone identifiable par d\'autres périphériques bluetooth durant %1$d secondes. Voulez-vous l\'activer?</string>
     <string name="bluetooth_ask_enablement_and_lasting_discovery">Une application souhaite activer le bluetooth et rendre votre téléphone identifiable par d\'autres périphériques bluetooth. Autorisez vous cela?</string>
     <string name="bluetooth_turning_on">Activation du Bluetooth…</string>
     <string name="bluetooth_scan_text">Bouton vide…</string>
@@ -223,7 +223,7 @@
     <string name="unlock_set_unlock_disabled_summary">Désactivé par un administrateur distant</string>
     <string name="lockpassword_password_too_short">Le mot de passe doit comporter au moins %d caractères.</string>
     <string name="lockpassword_pin_too_short">Le code PIN doit comporter au moins %d caractères.</string>
-    <string name="lockpassword_press_continue">Appuyez sur OK une fois l\'opération  l\'opération terminée.</string>
+    <string name="lockpassword_press_continue">Appuyez sur OK une fois l\'opération terminée.</string>
     <string name="lockpassword_continue_label">Continuer</string>
     <string name="lockpassword_password_too_long">Le code PIN ne doit pas contenir plus de %d chiffres.</string>
     <string name="lockpassword_pin_too_long">Le code PIN ne doit pas contenir plus de %d chiffres.</string>
@@ -291,7 +291,7 @@
     <string name="bluetooth_dock_settings_a2dp">Pour la musique et le multimédia</string>
     <string name="bluetooth_dock_settings_remember">Mémoriser ces paramètres</string>
     <string name="nfc_quick_toggle_title">NFC</string>
-    <string name="nfc_toggle_error">Une erreur et survenue.</string>
+    <string name="nfc_toggle_error">Une erreur est survenue.</string>
     <string name="wifi_quick_toggle_title">Activer le Wi-Fi</string>
     <string name="wifi_quick_toggle_summary">Permet la connexion à une borne/routeur Wi-Fi</string>
     <string name="wifi_settings">Paramètres Wi-Fi</string>
@@ -303,7 +303,7 @@
     <string name="wifi_in_airplane_mode">En mode avion</string>
     <string name="wifi_fail_to_scan">Impossible de rechercher des réseaux.</string>
     <string name="wifi_wapi_fail_to_init">Impossible d\'ouvrir les certificats WAPI\nLe stockage des informations ne doit pas être activé</string>
-    <string name="wifi_wapi_fail_to_auth">Authentification WAPI échouée\nPlease vérifier la validité des certificats</string>
+    <string name="wifi_wapi_fail_to_auth">L\'authentification WAPI a échoué!\nVeuillez vérifier la validité des certificats.</string>
     <string name="wifi_notify_open_networks">Notifier réseaux ouverts</string>
     <string name="wifi_notify_open_networks_summary">Me notifier lorsqu\'un réseau ouvert est disponible</string>
     <string name="wifi_add_wps_network">Ajouter un réseau WPS</string>
@@ -341,7 +341,7 @@
     <string name="wifi_eap_user_cert">Certificat utilisateur</string>
     <string name="wifi_eap_identity">Identité</string>
     <string name="wifi_eap_anonymous">Anonyme</string>
-    <string name="wifi_wapi_psk_type">Type de Mot de passe</string>
+    <string name="wifi_wapi_psk_type">Type de mot de passe</string>
     <string name="wifi_password">Mot de passe</string>
     <string name="wifi_password_incorrect">Mot de passe incorrect, réessayez.</string>
     <string name="wifi_show_password">Afficher le mot de passe</string>
@@ -362,7 +362,7 @@
     <string name="wifi_advanced_titlebar">Options avancées</string>
     <string name="wifi_setting_num_channels_title">Numéro du canal</string>
     <string name="wifi_setting_num_channels_summary">Définir le numéro du canal à utiliser</string>
-    <string name="wifi_setting_num_channels_error">Un problème est survenu lors du paramétrage du domaine régulateur.</string>
+    <string name="wifi_setting_num_channels_error">Un problème est survenu lors du paramétrage du numéro de canal.</string>
     <string name="wifi_setting_num_channels_channel_phrase">Canal %1$d</string>
     <string name="wifi_setting_sleep_policy_title">Politique de veille Wi-Fi</string>
     <string name="wifi_setting_sleep_policy_summary">Indiquer quand mettre en veille le Wi-Fi</string>
@@ -417,7 +417,7 @@
     <string name="display_settings_title">Affichage</string>
     <string name="notification_pulse_title">Signaler les notifications par LED</string>
     <string name="notification_pulse_summary">A la réception d\'une notification, la LED clignotera</string>
-    <string name="checkbox_notification_same_as_incoming_call">Lier le volumes d\'appels et de notifications</string>
+    <string name="checkbox_notification_same_as_incoming_call">Lier les volumes d\'appels et de notifications</string>
     <string name="incoming_call_volume_title">Volume des appels entrants</string>
     <string name="media_volume_title">Multimédia</string>
     <string name="dock_settings">Station d\'accueil</string>
@@ -667,7 +667,7 @@
     <string name="security_settings_desc">Cette application peut accéder aux applications suivantes de votre téléphone :</string>
     <string name="computing_size">Traitement...</string>
     <string name="invalid_size_value">Impossible de calculer la taille du paquet.</string>
-    <string name="version_text">version %1$s</string>
+    <string name="version_text">Version %1$s</string>
     <string name="move_app">Déplacer</string>
     <string name="move_app_to_internal">Déplacer vers le téléphone</string>
     <string name="move_app_to_sdcard">Déplacer vers la carte SD</string>
@@ -851,7 +851,7 @@
     <string name="battery_desc_voice">Batterie utilisée par les appels vocaux</string>
     <string name="battery_desc_standby">Batterie utilisée lorsque le téléphone est inactif</string>
     <string name="battery_desc_radio">Batterie utilisée par le signal de cellule GSM</string>
-    <string name="battery_sugg_radio">Passez en mode Avion pour économiser la batterie dans les zones sans couverture cellulaire.</string>
+    <string name="battery_sugg_radio">Passez en mode avion pour économiser la batterie dans les zones sans couverture cellulaire.</string>
     <string name="battery_desc_display">Batterie utilisée par l\'affichage et le rétro-éclairage</string>
     <string name="battery_sugg_display">Réduire la luminosité et/ou le délai de mise en veille de l\'écran</string>
     <string name="battery_desc_wifi">Batterie utilisée par le WiFi</string>
@@ -882,11 +882,11 @@
     <string name="tts_default_rate_title">Cadence</string>
     <string name="tts_default_rate_summary">Vitesse à laquelle le texte est énoncé</string>
     <string name="tts_default_lang_title">Langue</string>
-    <string name="tts_default_lang_summary">Définir la langue utilisée par la synthèse vocal</string>
+    <string name="tts_default_lang_summary">Définir la langue utilisée par la synthèse vocale</string>
     <string name="tts_play_example_title">Écouter un échantillon</string>
     <string name="tts_play_example_summary">Lire une courte démonstration de la synthèse vocale</string>
-    <string name="tts_install_data_title">Installer les données vocales</string>
-    <string name="tts_install_data_summary">Installer les données nécessaires à la synthèse vocale</string>
+    <string name="tts_install_data_title">Installer des voix</string>
+    <string name="tts_install_data_summary">Ajoute des voix supplémentaires utilisables par le moteur de synthèse vocale</string>
     <string name="tts_demo">Voici un échantillon de synthèse vocale.</string>
     <string name="tts_engine_security_warning">Ce moteur de synthèse vocale est susceptible de collecter tout ce que vous direz, y compris les données personnelles comme les mots de passe et les numéros de carte de paiement. Il provient du moteur %s. Voulez-vous activer son utilisation ?</string>
     <string name="tts_engines_section">Moteurs</string>
@@ -958,7 +958,7 @@
     <string name="vpn_openvpn_userauth">Authentification utilisateur</string>
     <string name="vpn_openvpn_userauth_summary">Utiliser si un login / mot de passe supplémentaire doivent être utilisés</string>
     <string name="vpn_openvpn_advanced_titlebar">Paramètres avancés OpenVPN</string>
-    <string name="vpn_openvpn_comp_lzo">compression LZO</string>
+    <string name="vpn_openvpn_comp_lzo">Compression LZO</string>
     <string name="vpn_openvpn_comp_lzo_summary">Force la compression LZO</string>
     <string name="vpn_openvpn_redirect_gateway_title">Plateforme de redirection</string>
     <string name="vpn_openvpn_redirect_gateway_summary">Force tout le traffic à être routé vers le tunnel VPN</string>
@@ -1097,8 +1097,8 @@
     <string name="camera_key_action_toggle_title">Bouton de déclenchement</string>
     <string name="camera_key_action_app_title">Ouvrir une application</string>
     <string name="camera_key_action_shortcut_home">Retour au bureau</string>
-    <string name="camera_key_action_shortcut_screenshot">Prendre une capture d\'écran</string>
-    <string name="camera_key_action_shortcut_search">Recherche</string>
+    <string name="camera_key_action_shortcut_screenshot">Capture d\'écran</string>
+    <string name="camera_key_action_shortcut_search">Rechercher</string>
     <string name="camera_key_action_shortcut_call">Appeler</string>
     <string name="camera_key_action_shortcut_wake">Activer l\'écran</string>
     <string name="multi_touch_points_category_title">Écran multi-touch</string>
@@ -1263,9 +1263,9 @@
     <string name="compatibility_mode_toggle_on">Activé</string>
     <string name="compatibility_mode_toggle_off">Désactivé</string>
     <string name="auto_agps">Utiliser l\'aGPS</string>
-    <string name="auto_agps_sum">Une fois activé, l\'éphémérides du positionnement des satellites sera téléchargé hebdomadairement en utilisant automatiquement les réseaux Wi-Fi et/ou GSM</string>
+    <string name="auto_agps_sum">Une fois activé, l\'éphéméride du positionnement des satellites sera téléchargé hebdomadairement en utilisant automatiquement les réseaux Wi-Fi et/ou GSM</string>
     <string name="gps_config_title">Configuration du serveur aGPS</string>
-    <string name="gps_config_summary">La paramètres du serveur aGPS peuvent être modifiés ici.</string>    
+    <string name="gps_config_summary">Les paramètres du serveur aGPS peuvent être modifiés ici.</string>    
     <string name="gps_config_ntp_server">Adresse du serveur NTP:</string>
     <string name="gps_config_supl_host">Serveur SUPL:</string>
     <string name="gps_config_supl_port">Port Serveur SUPL:</string>
@@ -1451,7 +1451,7 @@
     <string name="sensor_accelerometer">Accéléromètre</string>
     <string name="sensor_magnetic_field">Détecteur de champ magnétique</string>
     <string name="sensor_orientation">Détecteur d\'orientation</string>
-    <string name="sensor_gyroscope">Gyroscoper</string>
+    <string name="sensor_gyroscope">Gyroscope</string>
     <string name="sensor_light">Détecteur de lumière</string>
     <string name="sensor_pressure">Détecteur de pression</string>
     <string name="sensor_temperature">Thermomètre</string>

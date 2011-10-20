@@ -61,7 +61,7 @@
     <string name="debug_version_fmt">Version: %s</string>
     <string name="debug_enable_debug_logging_label">Activer le mode débogage avancé?</string>
     <string name="debug_enable_sensitive_logging_label">Activer le mode débogage avancé pour les informations sensibles? (Les mots de passe pourraient apparaître dans les logs.)</string>
-    <string name="debug_enable_exchange_logging_label">Activer la journalisation des échanges? (Instable)</string>
+    <string name="debug_enable_exchange_logging_label">Activer la journalisation des échanges? (Bavard)</string>
     <string name="debug_enable_exchange_file_logging_label">Activer la journalisation des échanges avec la carte SD?</string>
     <string name="account_folder_list_separator_accounts">Comptes</string>
     <string name="account_folder_list_summary_inbox">Boîte de réception combinée</string>
@@ -229,7 +229,7 @@
     <string name="account_settings_ringtone">Sélectionner la sonnerie</string>
     <string name="account_settings_servers">Paramètres du serveur</string>
     <string name="account_delete_dlg_title">Supprimer le compte</string>
-    <string name="account_delete_dlg_instructions_fmt">Le compte \"%s\" va être supprimé de votre messagerie.</string>
+    <string name="account_delete_dlg_instructions_fmt">Le compte de messagerie \"%s\" va être supprimé.</string>
     <string name="upgrade_accounts_title">Mettre les comptes à niveau</string>
     <string name="upgrade_accounts_error">Impossible de mettre le compte à niveau.</string>
     <string name="provider_note_live">Seuls certains comptes \"Plus\" comportent un accès POP permettant à ce programme de se connecter. Si vous ne parvenez pas à vous connecter avec l\'adresse e-mail et le mot de passe corrects, vous ne disposez peut-être pas d\'un compte payant \"Plus\". Pour accéder à ces comptes de messagerie, lancez votre navigateur Web.</string>

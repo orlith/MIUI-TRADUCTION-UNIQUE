@@ -48,7 +48,7 @@
     <string name="user_agreement2">les conditions d\'utilisation du service.</string>
     <string name="user_agreement3">\u0020et\u0020</string>
     <string name="user_agreement4">les conditions de confidentialité</string>
-    <string name="loging_on">Tentative de connexion</string>
+    <string name="loging_on">Connexion...</string>
     <string name="invalid_phone_number">Numéro de téléphone invalide</string>
     <string name="invalid_vercode">Entrez le code de vérification reçu</string>
     <string name="invalid_nickname">Le pseudo est déjà utilisé ou est invalide.</string>
@@ -56,7 +56,7 @@
     <string name="forget_password">Mot de passe oublié?</string>
     <string name="sending_request">Requête en cours...</string>
     <string name="succeed">Terminé</string>
-    <string name="settings_safetylegal_activity_unreachable">Votre téléphone est connecté à un service de données. Pour en savoir plus, rendez vous sur %s depuis n\'importe quel ordinateur connecté à Internet.</string>
+    <string name="settings_safetylegal_activity_unreachable">Votre téléphone n\'est pas connecté à un service de données. Pour afficher ces informations maintenant, allez à %s de n\'importe quel ordinateur connecté à internet.</string>
     <string name="account_expired_dialog_title">Session expirée</string>
     <string name="account_expired_dialog_message">Votre session a expiré, veuillez vous identifier à nouveau!</string>
 </resources>

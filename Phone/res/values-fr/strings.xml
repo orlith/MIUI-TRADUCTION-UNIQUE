@@ -314,7 +314,7 @@
     <string name="notification_voicemail_no_vm_number">Numéro de messagerie vocale inconnu</string>
     <string name="notification_network_selection_title">Aucun service</string>
     <string name="notification_network_selection_text">Réseau sélectionné (%s) non disponible</string>
-    <string name="incall_error_power_off">Veuillez d\'abord désactiver le mode Avion, afin d\'effectuer un appel.</string>
+    <string name="incall_error_power_off">Veuillez d\'abord désactiver le mode avion, afin d\'effectuer un appel.</string>
     <string name="incall_error_emergency_only">Non enregistré sur le réseau.</string>
     <string name="incall_error_out_of_service">Réseau mobile non disponible</string>
     <string name="incall_error_no_phone_number_supplied">L\'appel n\'a pas été effectué. Le numéro composé n\'est pas valide.</string>
@@ -383,7 +383,7 @@
     <string name="alert_dialog_dismiss">Ignorer</string>
     <string name="absent_num">Pas de numéro</string>
     <string name="voicemail_settings">Messagerie vocale</string>
-    <string name="voicemail_number_not_set">&lt;non défini></string>
+    <string name="voicemail_number_not_set">&lt;non défini&gt;</string>
     <string name="voicemail_provider">Service de messagerie</string>
     <string name="voicemail_settings_for">Paramètres pour %s</string>
     <string name="other_settings">Autres paramètres d\'appel</string>
@@ -521,8 +521,8 @@
     <string name="simContacts_empty_add_contact_hint">Appuyez sur la touche menu pour ajouter un contact</string>
     <string name="answer_features_setting_title">Paramètres des appels entrants</string>
     <string name="answer_features_setting_summary">Paramètres divers liés aux appels entrants</string>
-    <string name="icc_related_setting_title">Paramètres appels entrants et sortants</string>
-    <string name="icc_related_setting_summary">Paramètres liés à votre réseau</string>
+    <string name="icc_related_setting_title">Services de votre opérateur</string>
+    <string name="icc_related_setting_summary">Configuration des services spécifiques à votre opérateur</string>
     <string name="incoming_call_guide">Glissez vers le haut pour refuser l\'appel</string>
     <string name="lable_call_privileged">Appel sortant</string>
     <string name="goPrivate">Mode privé</string>
@@ -585,8 +585,8 @@
     <string name="advanced_settings">Paramètres facultatifs</string>
     <string name="auth_username_title">Nom d\'utilisateur d\'authentification</string>
     <string name="auth_username_summary">Nom d\'utilisateur utilisé pour l\'authentification</string>
-    <string name="default_preference_summary">&lt;Non défini></string>
-    <string name="display_name_summary">&lt;Identique au nom d\'utilisateur></string>
+    <string name="default_preference_summary">&lt;Non défini&gt;</string>
+    <string name="display_name_summary">&lt;Identique au nom d\'utilisateur&gt;</string>
     <string name="optional_summary">Facultatif</string>
     <string name="default_port">5060</string>
     <string name="default_transport">UDP</string>

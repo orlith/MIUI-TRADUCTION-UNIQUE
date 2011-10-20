@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">AntiSpam</string>
     <string name="firewall_settings_tab_title">Règles de blocage</string>
-    <string name="black_white_list_tab_title">Liste noire</string>
+    <string name="black_white_list_tab_title">Listes</string>
     <string name="call_log_tab_title">Appels</string>
     <string name="mms_log_tab_title">SMS</string>
     <string name="fw_blacklist">Liste noire</string>
@@ -76,7 +76,7 @@
     <string name="fw_ms_filtered">SMS filtrés</string>
     <string name="fw_ms_imported">SMS importés</string>
     <string name="fw_keyword_list">Liste des mot clés</string>
-    <string name="fw_keyword_list_hint">Les SMS contenant ces mot clés seront filtrés</string>
+    <string name="fw_keyword_list_hint">Les SMS contenant ces mots clés seront filtrés. Vous pouvez ajouter d\'autres mots-clés en les séparant par une virgule.</string>
     <string name="menu_edit">Modifier</string>
     <string name="fw_add_keyword">Ajouter un mot clé</string>
     <string name="fw_edit_keyword">Modifier le mot clé</string>
@@ -89,7 +89,7 @@
     <string name="firewall_log">Journal de filtrage</string>
     <string name="fw_on">Activé</string>
     <string name="fw_blocked">Blocage</string>
-    <string name="fw_blocked_count">%d appel(s) et %d messages bloqué(s)</string>
+    <string name="fw_blocked_count">%d appel(s) et %d message(s) bloqué(s)</string>
     <string name="firewall_settings">Paramètres du filtre</string>
     <string name="remove">Supprimer</string>
     <string name="emptylist_fwlog_call">Lorsque le blocage sera actif, les appels bloqués seront listés ici.</string>
@@ -102,7 +102,7 @@
     <string name="edit_blacklist">Modifier la liste noire</string>
     <string name="edit_whitelist">Modifier la liste blanche</string>
     <string name="fw_notes_hint">Note (optionnel)</string>
-    <string name="number_add_hint">Entrez le numéro de téléphone à black-lister</string>
+    <string name="number_add_hint">Entrez le numéro de téléphone</string>
     <string name="fw_in_blacklist">Le numéro %s est déjà dans la liste noire.</string>
     <string name="fw_in_whitelist">Le numéro %s est déjà dans la liste blanche</string>
     <string name="fw_import_ms">Importer tous les messages</string>

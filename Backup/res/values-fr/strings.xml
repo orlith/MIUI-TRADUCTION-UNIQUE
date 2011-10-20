@@ -7,8 +7,8 @@
     <string name="start_backup">Sauvegarder</string>
     <string name="button_cancel">Annuler</string>
     <string name="backup_empty">Il n\'y aucune sauvegarde</string>
-    <string name="backup_items_sysdata_tailer">\u0020Données du système</string>
-    <string name="backup_items_app_tailer">\u0020Programmes</string>
+    <string name="backup_items_sysdata_tailer">\u0020Données du système\u0020</string>
+    <string name="backup_items_app_tailer">\u0020Programme(s)</string>
     <string name="backup_failed">La sauvegarde a échoué, veuillez réessayer</string>
     <string name="backup_recently">\u0020(dernière)</string>
     <string name="sdcard_unmounted">La carte SD n\'est pas présente, le programme va se fermer!</string>
@@ -21,14 +21,14 @@
     <string name="delete">Supprimer</string>
     <string name="cancel">Annuler</string>
     <string name="delete_backup">Suppression de la sauvegarde</string>
-    <string name="delete_backup_confirm">Confirmez-vous la suppression de la sélection ?</string>
+    <string name="delete_backup_confirm">\u0020Confirmez-vous la suppression de la sélection ?</string>
     <string name="delete_backup_process">Suppression de la sélection, veuillez patientez...</string>
     <string name="backup_error">Erreur de sauvegarde</string>
     <string name="delete_failed_backup_confirm">Le fichier de sauvegarde comporte une erreur, restauration impossible.</string>
     <string name="batch_delete_backup_confirm">Confirmez-vous la suppression de la sélection?</string>
     <string name="start_restore">Restauration</string>
     <string name="backup_file_error">Problème fichiers de sauvegarde, l\'opération n\'est pas valide.</string>
-    <string name="unit_byte">O</string>
+    <string name="unit_byte">o</string>
     <string name="unit_piece">\u0020élément(s)</string>
     <string name="restore_finished">Restauration terminée</string>
     <string name="restore_report">Rapport de restauration</string>
@@ -118,7 +118,7 @@
     <string name="progress_restore_hint">Restauration des données\u0020</string>
     <string name="cancel_restore">Annuler</string>
     <string name="local_select_sysdata">Données système</string>
-    <string name="local_select_userapp">Programmes</string>
+    <string name="local_select_userapp">Programme(s)</string>
     <string name="local_no_backup">Aucune sauvegarde locale</string>
     <string name="auto_backup_setting_title">Sauvegarde automatique</string>
     <string name="auto_backup_open">Ouvrir la sauvegarde automatique</string>

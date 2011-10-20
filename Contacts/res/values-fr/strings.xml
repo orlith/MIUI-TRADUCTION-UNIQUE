@@ -380,7 +380,7 @@
     <string name="view_contact_sms">SMS</string>
     <string name="view_contact_number_call_confirm">Appeler</string>
     <string name="view_contact_number_sms_confirm">Envoyer un message</string>
-    <string name="edit_contact_card_delete">supprimer le contact</string>
+    <string name="edit_contact_card_delete">Supprimer le contact</string>
     <string name="sip_address">SIP</string>
     <string name="contact_pick_photo">Sélectionner une image</string>
     <string name="quick_contact_send_sms">SMS</string>
@@ -408,8 +408,8 @@
     <string name="check_all">Sélectionner tout</string>
     <string name="check_nothing">Désélectionner tout</string>
     <string name="confirm_delete_title">Confirmation de la suppression</string>
-    <string name="confirm_delete_message_by_contact">Suppression de tous les contacts sélectionnés du journal</string>
-    <string name="confirm_delete_message_by_number">Suppression de tous les numéros sélectionnés du journal</string>
+    <string name="confirm_delete_message_by_contact">Voulez vous supprimer le contact %d du journal d\'appel?</string>
+    <string name="confirm_delete_message_by_number">Voulez vous supprimer le numéro %d du journal d\'appel?</string>
     <string name="call_log_note">Voir journal d\'appel</string>
     <string name="delete_sigle_call_log">Suppression de la liste des appels</string>
     <string name="delete_all_call_logs">Supprimer tout</string>

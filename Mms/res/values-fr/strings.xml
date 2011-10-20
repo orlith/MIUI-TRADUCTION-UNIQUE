@@ -47,7 +47,7 @@
     <string name="remove_music">Supprimer la musique</string>
     <string name="add_video">Ajouter une vidéo</string>
     <string name="remove_video">Supprimer la vidéo</string>
-    <string name="to_hint">A</string>
+    <string name="to_hint">À</string>
     <string name="subject_hint">Objet</string>
     <string name="add_attachment">Pièce jointe</string>
     <string name="add_subject">Ajouter un objet</string>
@@ -161,7 +161,7 @@
     <string name="priority_high">Élevée</string>
     <string name="priority_normal">Normale</string>
     <string name="priority_low">Faible</string>
-    <string name="message_class_label">Catégorie  :</string>
+    <string name="message_class_label">Catégorie :</string>
     <string name="error_code_label">Code d\'erreur :</string>
     <string name="menu_edit">Modifier</string>
     <string name="menu_delete_messages">Supprimer les messages</string>
@@ -193,7 +193,7 @@
     <string name="add_nickname">Pseudo</string>
     <string name="add_festival">Recommandé</string>
     <string name="add_nickname_title">Modification du pseudo</string>
-    <string name="edit_nickname_for_nocontact">Vous n\'avez pas ajouté de destinataire. Veuillez ajoutez un destinataire, puis cliquez sur édition.</string>
+    <string name="edit_nickname_for_nocontact">Vous n\'avez pas ajouté de destinataire. Veuillez ajouter un destinataire, puis cliquez sur édition.</string>
     <string name="edit_nickname_for_nocontact_by_robot">Une fois le destinataire ajouté, cliquez sur le Surnom afin de le modifier</string>
     <string name="nickname_placeholder">Pseudo</string>
     <string name="select_bottom_text">Texte en bas de l\'écran</string>
@@ -358,7 +358,7 @@
     <string name="flatshow_page_no">Page %1$d</string>
     <string name="loading_contacts">Chargement des contacts...</string>
     <string name="prepare_send">Envoi en cours...</string>
-    <string name="activity_not_found">Impossible de trouver le processus lié</string>
+    <string name="activity_not_found">Impossible d\'ouvrir la pièce jointe</string>
     <string name="activity_not_found_uri">Pas de programme approprié trouvé</string>
     <string name="fetion_prefix">[Fetion]</string>
     <string name="chenghu_disable_mms">La modification de l\'adresse MMS est invalide</string>

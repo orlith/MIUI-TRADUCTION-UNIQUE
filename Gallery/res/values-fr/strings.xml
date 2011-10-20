@@ -27,8 +27,8 @@
     <string name="tab_favorite_title">Favoris</string>
     <string name="tab_all_folders_title">Tout</string>
     <string name="tab_folder_tree_title">Carte SD</string>
-    <string name="image_property">Propriétés</string>
-    <string name="video_property">Propriétés</string>
+    <string name="image_property">Propriétés de l\'image</string>
+    <string name="video_property">Propriétés de la vidéo</string>
     <string name="sort">Trier</string>
     <string name="sort_by_name">Ordre croissant (A-Z)</string>
     <string name="sort_by_name_reverse">Ordre décroissant (Z-A)</string>
@@ -75,7 +75,7 @@
     <string name="already_saved">Vous avez déjà enregistré l\'image dans %s</string>
     <string name="failure_external_storage_not_writable">Le périphérique de stockage externe ne peut pas être écris, l\'opération a échoué!</string>
     <string name="save_pic_error">L\'enregistrement de l\'image a échoué!</string>
-    <string name="save_pic_to_success">Sauvegarde de l\'image réussie!</string>
+    <string name="save_pic_to_success">Sauvegarde de l\'image réussie dans\n%s</string>
     <string name="save_to_sdcard">Enregistrer sur la Carte SD</string>
     <string name="damaged_file">Le fichier est corrompu</string>
     <string name="camera_folder_display_name">Photo</string>
@@ -147,7 +147,7 @@
     <string name="file_info_path">Chemin:</string>
     <string name="file_info_geo_location">Emplacement:</string>
     <string name="file_info_size">Taille:</string>
-    <string name="file_info_dimension">Taille:</string>
+    <string name="file_info_dimension">Dim.:</string>
     <string name="file_info_create_time">Création:</string>
     <string name="file_info_duration">Durée:</string>
     <string name="no">Non</string>
