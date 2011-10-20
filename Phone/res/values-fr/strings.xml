@@ -450,9 +450,6 @@
     <string name="turnover_mute_title">Muet par retournement</string>
     <string name="handon_ringer_title">Fondu</string>
     <string name="handon_ringer_summary">Le volume de la sonnerie diminue lorsque vous prenez votre téléphone. Inactif en mode vibreur.</string>
-    <string name="allow_3rd_app_listen_phone_event_title">Autoriser l\'accès</string>
-    <string name="allow_3rd_app_listen_phone_event_summary">Autoriser l\'accès aux données de l\'application téléphonique par d\'autres applications</string>
-    <string name="allow_3rd_app_listen_phone_event_reboot_prompt">Redémarrage nécessaire pour valider le réglage choisi.\nVoulez vous redémarrer maintenant?</string>
     <string name="show_quick_contact_badge_title">Afficher avatars</string>
     <string name="set_smsc_address_title">Numéro du centre de messagerie</string>
     <string name="get_smsc_address_error">Impossible d\'obtenir le numéro du centre de messagerie, essayez plus tard SVP.</string>
@@ -616,4 +613,20 @@
     <string name="set_primary">Définir comme principal</string>
     <string name="advanced_settings_container">Menu des réglages avancés</string>
     <string name="auth_username">AuthUserName</string>
+    <string name="add_button">Ajouter</string>
+    <string name="edit_custom_location_title">Personnaliser la zone géographique et le code régional</string>
+    <string name="custom_location_number_hint">Code de zone géographique: 010 par exemple, numéro de groupe: 68##### par exemple</string>
+    <string name="custom_location_location_hint">Nom</string>
+    <string name="number_type">Type de numéro</string>
+    <string name="number_type_tel">Fixe</string>
+    <string name="number_type_mob">Mobile</string>
+    <string name="number_type_jituan">Numéro de groupe</string>
+    <string name="remove">Supprimer</string>
+    <string name="check_all">Sélectionner tout</string>
+    <string name="check_nothing">Déselectionner tout</string>
+    <string name="deleting_message">Suppression...</string>
+    <string name="confirm_delete_message_title">Vous allez supprimer %d paramètre(s) géographique(s) sélectionné(s). Continuer?</string>
+    <string name="pref_custom_location_title">Personnaliser la zone géographique</string>
+    <string name="pref_custom_location_summary">Personnaliser la zone géographique et le numéro correspondant</string>
+    <string name="pref_edit_custom_location_title">Editer</string>
 </resources>

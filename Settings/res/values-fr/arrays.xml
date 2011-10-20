@@ -455,12 +455,12 @@
         <item>Bleu</item>
         <item>Rouge</item>
         <item>Vert</item>
-        <item>Jaune</item>
-        <item>Orange</item>
-        <item>Or</item>
-        <item>Violet</item>
         <item>Rose</item>
-        <item>Framboise</item>
+        <item>Violet</item>
+        <item>Pourpre</item>
+        <item>Vert émeraude</item>
+        <item>Turquoise</item>
+        <item>Bleu clair</item>
     </string-array>
     <string-array name="entries_light_filter_window">
         <item>10 s</item>

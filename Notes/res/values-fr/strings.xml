@@ -3,13 +3,13 @@
     <string name="app_name">Notes</string>
     <string name="app_widget2x2">Notes 2x2</string>
     <string name="app_widget4x4">Notes 4x4</string>
-    <string name="button_set">Définir</string>
-    <string name="button_clear">Annuler</string>
     <string name="widget_havenot_content">Aucune note n\'est associée, cliquez pour associer une note.</string>
     <string name="widget_under_visit_mode">Le mode privé est activé, vous ne pouvez pas visualiser le contenu des notes</string>
     <string name="notelist_string_info">...</string>
     <string name="notelist_menu_new">Ajouter une note</string>
     <string name="noteedit_use_alert_time_error">Impossible de définir l\'heure</string>
+    <string name="noteedit_use_alert_time_success">Heure de rappel définie avec succès</string>
+    <string name="delete_remind_time_message">Rappel supprimé</string>
     <string name="note_alert_expired">Périmée</string>
     <string name="format_date_ymd">ddMMyyy</string>
     <string name="format_datetime_mdhm">d MMM kk:mm</string>
@@ -44,6 +44,7 @@
     <string name="menu_share">Partager</string>
     <string name="menu_send_to_desktop">Créer un raccourci</string>
     <string name="menu_alert">Rappel</string>
+    <string name="menu_remove_remind">Supprimer le rappel</string>
     <string name="menu_title_select_folder">Sélectionner le dossier</string>
     <string name="menu_move_parent_folder">Dossier parent</string>
     <string name="info_note_enter_desktop">Note créée sur le bureau</string>
@@ -90,7 +91,6 @@
     <string name="preferences_toast_success_set_accout">%1$s a été défini comme compte de synchronisation</string>
     <string name="preferences_bg_random_appear_title">Couleur de fond aléatoire</string>
     <string name="button_delete">Suppr.</string>
-    <string name="button_cancel">Annuler</string>
     <string name="button_check">Tous</string>
     <string name="button_check_none">Aucun</string>
     <string name="button_move">Déplacer</string>

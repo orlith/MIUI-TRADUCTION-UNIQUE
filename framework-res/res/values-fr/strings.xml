@@ -22,6 +22,10 @@
     <string name="yes">OK</string>
     <string name="dialog_alert_title">Attention</string>
     <string name="VideoView_error_text_invalid_progressive_playback">Désolé, cette vidéo ne peut être lue sur cet appareil.</string>
+    <string name="sd_not_available">Carte SD démontée ou non insérée</string>
+    <string name="sd_not_available_low_internal_storage">Carte SD démontée ou non insérée, l\'espace libre est insuffisant.</string>
+    <string name="sd_not_available_saved_to_internal_storage">Sauvegardé dans la mémoire interne</string>
+    <string name="sd_not_available_use_internal_storage">Carte SD indisponible, sauvegardé dans la mémoire du téléphone</string>
     <string name="config_statusBarComponent">com.android.systemui/com.android.systemui.statusbar.StatusBarService</string>
     <string name="config_tether_apndata" />
     <item type="string" name="default_wallpaper_component">@null</item>
@@ -936,10 +940,6 @@
     <string name="media_removed">La carte SD a été enlevée.</string>
     <string name="media_shared">La carte SD est utilisée par un ordinateur.</string>
     <string name="media_unknown_state">Média externe en mode inconnu.</string>
-    <string name="sd_not_available">Carte SD indisponible</string>
-    <string name="sd_not_available_use_internal_storage">Carte SD actuellement indisponible</string>
-    <string name="sd_not_available_low_internal_storage">Faible espace libre sur la mémoire interne</string>
-    <string name="sd_not_available_saved_to_internal_storage">Carte SD indisponible, sauvegardé dans la mémoire interne</string>
     <string name="reboot_confirm">Votre téléphone va redémarrer.</string>
     <string name="reboot_progress">Redémarrage ...</string>
     <string name="global_action_toggle_privacy_mode">Mode privé</string>

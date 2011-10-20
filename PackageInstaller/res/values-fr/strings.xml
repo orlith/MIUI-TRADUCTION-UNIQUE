@@ -15,6 +15,7 @@
     <string name="unknown_apps_dlg_title">Installation bloquée</string>
     <string name="unknown_apps_dlg_text">Pour plus de sécurité, votre téléphone est configuré de façon à bloquer l\'installation des applications ne provenant pas d\'Android Market.</string>
     <string name="ok">OK</string>
+    <string name="lift_ban">Lever la restriction</string>
     <string name="settings">Paramètres</string>
     <string name="manage_applications">Gérer les applications</string>
     <string name="dlg_app_replacement_title">Remplacer l\'application</string>

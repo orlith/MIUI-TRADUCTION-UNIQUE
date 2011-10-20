@@ -58,6 +58,5 @@
     <string name="alarm_klaxon_service_desc">Service de lecture du son pour les alarme</string>
     <string name="default_alarm_alert">Alerte par défaut</string>
     <string name="correct_time_msg">Réglez l\'heure et la date actuelle ici!</string>
-    <item type="string" name="APKTOOL_DUMMY_003a">false</item>
-    <item type="string" name="APKTOOL_DUMMY_003b">false</item>
+
 </resources>

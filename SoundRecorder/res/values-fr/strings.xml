@@ -40,6 +40,7 @@
     <string name="second">%d seconde(s)</string>
     <string name="minute">%d minute(s)</string>
     <string name="hour">%d heure(s)</string>
+    <string name="call_record_or">ou</string>
     <string name="dialog_play">Lire</string>
     <string name="dialog_send">Envoyer</string>
     <string name="dialog_delete">Supprimer</string>

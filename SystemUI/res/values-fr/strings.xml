@@ -33,4 +33,6 @@
     <string name="user_guide_for_toggle">Faites défiler les réglages en accès rapide horizontalement</string>
     <string name="user_guide_for_toggle_list">Ce bouton vous permettra de choisir les entrées qui apparaîtront</string>
     <string name="user_guide_for_call">Pour revenir à l\'écran d\'appel, faites glisser la barre de statut vers le bas et cliquer sur la notification correspondante</string>
+    <string name="return_to_incall_screen">Cliquer pour retourner à l\'écran d\'appel en cours</string>
+    <string name="call_status_dialing">En communication</string>
 </resources>

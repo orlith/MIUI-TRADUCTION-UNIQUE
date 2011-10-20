@@ -23,6 +23,7 @@
         <item>Notes</item>
         <item>Filtrage d\'appel/message</item>
         <item>Thème actuel</item>
+        <item>Superuser</item>
     </string-array>
     <string-array name="app_type_desc">
         <item>Données</item>

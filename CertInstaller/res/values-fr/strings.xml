@@ -14,6 +14,8 @@
     <string name="one_usercrt">certificat un utilisateur</string>
     <string name="one_cacrt">un certificat de l\'autorité de certification</string>
     <string name="n_cacrts">%d certificats de l\'autorité de certification</string>
+    <string name="one_wapi_ascrt">un certificat WAPI AS</string>
+    <string name="one_wapi_usercrt">un certificat utilisateur WAPI</string>
     <string name="password_error">Entrer le bon mot de passe SVP.</string>
     <string name="password_empty_error">Entrer le mot de passe SVP.</string>
     <string name="name_empty_error">Entrer un nom SVP.</string>

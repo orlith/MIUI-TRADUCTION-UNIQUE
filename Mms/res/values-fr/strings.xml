@@ -310,6 +310,7 @@
     <string name="bookmark_attr_format">%1$s , %2$s</string>
     <string name="save_to_sim">Enregistrer sur la carte SIM</string>
     <string name="delete_bookmark">Supprimer le favori</string>
+    <string name="view_bookmark">Voir le favori</string>
     <string name="bookmark_confirm_delete_message">Les éléments sélectionnés seront supprimés</string>
     <string name="phrase_list_title">Phrases prédéfinies</string>
     <string name="new_phrase">Nouveau message rapide</string>
