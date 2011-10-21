@@ -55,8 +55,6 @@
     <string name="delete">Supprimer</string>
     <string name="send">Envoyer</string>
     <string name="save">Valider</string>
-    <string name="cancel">Annuler</string>
-    <string name="ok">OK</string>
     <string name="info">Info</string>
     <string name="error">Erreur</string>
     <string name="warn">Avertissement</string>

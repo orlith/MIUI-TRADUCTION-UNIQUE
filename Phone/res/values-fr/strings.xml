@@ -629,4 +629,6 @@
     <string name="pref_custom_location_title">Personnaliser la zone géographique</string>
     <string name="pref_custom_location_summary">Personnaliser la zone géographique et le numéro correspondant</string>
     <string name="pref_edit_custom_location_title">Editer</string>
+    <string name="number_format_error_message">%s supporte seulement les numéros</string>
+    <string name="jituan_number_format_error_message">%s supporte seulement les numéros et les #</string>
 </resources>

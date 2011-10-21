@@ -136,9 +136,9 @@
     <string name="pref_camera_afzone_spot">Mesure spot</string>
     <string name="video_settings">Paramètres vidéos</string>
     <string name="pref_video_quality">Qualité vidéo</string>
-    <string name="pref_video_quality_hd">HD%s (30mn)</string>
-    <string name="pref_video_quality_high">Élevée (30 mn)</string>
-    <string name="pref_video_quality_low">Faible (30 mn)</string>
+    <string name="pref_video_quality_hd">HD%s (2h)</string>
+    <string name="pref_video_quality_high">Élevée (2h)</string>
+    <string name="pref_video_quality_low">Faible (2h)</string>
     <string name="pref_video_quality_mms">MMS (faible, 30 s)</string>
     <string name="pref_video_continuous_focus">Focus continu</string>
     <string name="tag_coloreffect">COLOR_EFFECT_INDEX</string>
