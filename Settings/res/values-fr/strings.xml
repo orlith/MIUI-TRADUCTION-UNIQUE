@@ -1260,8 +1260,8 @@
     <string name="compatibility_mode_label">Mode Compatibilité</string>
     <string name="compatibility_mode_summery_on">Cette application fonctionne en mode de compatibilité</string>
     <string name="compatibility_mode_summery_off">Cette application fonctionne normalement</string>
-    <string name="compatibility_mode_toggle_on">Activé</string>
-    <string name="compatibility_mode_toggle_off">Désactivé</string>
+    <string name="compatibility_mode_toggle_on">Activer</string>
+    <string name="compatibility_mode_toggle_off">Désactiver</string>
     <string name="auto_agps">Utiliser l\'aGPS</string>
     <string name="auto_agps_sum">Une fois activé, l\'éphéméride du positionnement des satellites sera téléchargé hebdomadairement en utilisant automatiquement les réseaux Wi-Fi et/ou GSM</string>
     <string name="gps_config_title">Configuration du serveur aGPS</string>
@@ -1408,7 +1408,7 @@
     <string name="all_volume">Volumes</string>
     <string name="silent_mode">Mode silencieux</string>
     <string name="all_volume_settings_hint">Paramètres de volumes %s</string>
-    <string name="notification_use_ring_volume_title">Utiliser le même niveau sonore pour les sonneries et les notifications</string>
+    <string name="notification_use_ring_volume_title">Même volume pour sonneries et notif.</string>
     <string name="ringtone_volume_title">Appel</string>
     <string name="notification_volume_title">Notifications</string>
     <string name="alarm_volume_title">Alarmes</string>
