@@ -22,10 +22,6 @@
     <string name="yes">OK</string>
     <string name="dialog_alert_title">Attention</string>
     <string name="VideoView_error_text_invalid_progressive_playback">Désolé, cette vidéo ne peut être lue sur cet appareil.</string>
-    <string name="sd_not_available">Carte SD démontée ou non insérée</string>
-    <string name="sd_not_available_low_internal_storage">Carte SD démontée ou non insérée, l\'espace libre est insuffisant.</string>
-    <string name="sd_not_available_saved_to_internal_storage">Sauvegardé dans la mémoire interne</string>
-    <string name="sd_not_available_use_internal_storage">Carte SD indisponible, sauvegardé dans la mémoire du téléphone</string>
     <string name="config_statusBarComponent">com.android.systemui/com.android.systemui.statusbar.StatusBarService</string>
     <string name="config_tether_apndata" />
     <item type="string" name="default_wallpaper_component">@null</item>
@@ -801,7 +797,7 @@
     <string name="user_agreement2">\u0020Accord de l\'utilisateur</string>
     <string name="user_agreement3">\u0020et\u0020</string>
     <string name="user_agreement4">Politique de confidentialité</string>
-    <string name="user_agreement5">Cliquez sur OK pour accepter ces conditions, cliquez sur Annuler pour quitter.</string>
+    <string name="user_agreement5">. Cliquez sur OK pour accepter ces conditions, cliquez sur Annuler pour quitter.</string>
     <string name="smv_application">L\'application %1$s (processus %2$s) à violé sa politique stricte de confidentialité</string>
     <string name="smv_process">Le processus %1$s à violé sa politique stricte de confidentialité</string>
     <string name="heavy_weight_notification">%1$s fonctionne</string>
@@ -940,6 +936,10 @@
     <string name="media_removed">La carte SD a été enlevée.</string>
     <string name="media_shared">La carte SD est utilisée par un ordinateur.</string>
     <string name="media_unknown_state">Média externe en mode inconnu.</string>
+    <string name="sd_not_available">Carte SD démontée ou non insérée</string>
+    <string name="sd_not_available_low_internal_storage">Carte SD démontée ou non insérée, l\'espace libre est insuffisant.</string>
+    <string name="sd_not_available_saved_to_internal_storage">Sauvegardé dans la mémoire interne</string>
+    <string name="sd_not_available_use_internal_storage">Carte SD indisponible, sauvegardé dans la mémoire du téléphone</string>
     <string name="reboot_confirm">Votre téléphone va redémarrer.</string>
     <string name="reboot_progress">Redémarrage ...</string>
     <string name="global_action_toggle_privacy_mode">Mode privé</string>
@@ -985,7 +985,7 @@
     <string name="unknown">Inconnu</string>
     <string name="private_num">Appel masqué</string>
     <string name="payphone">Téléphone public</string>
-    <string name="callNoAnswerTimeFormat">%s sonnerie(s)</string>
+    <string name="callNoAnswerTimeFormat">%s appel(s) manqué(s)</string>
     <string name="callDetailsDurationFormat">%1$s min. %2$s sec.</string>
     <string name="firewall_setting">Filtrage</string>
     <string name="date_day">Date</string>

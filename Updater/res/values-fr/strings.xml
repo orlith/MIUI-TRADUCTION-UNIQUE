@@ -19,6 +19,7 @@
     <string name="copy_install_log">Copier le journal d\'installation</string>
     <string name="reboot_to_new_system">Redémarrer vers le système installé</string>
     <string name="update_success">Mise à jour réussie</string>
+    <string name="update_success_body">Le système a été mis à jour avec succès vers la version %s</string>
     <string name="mione_update_success_title">Mise à jour réussie</string>
     <string name="mione_update_success_description">La mise à jour a été appliquée avec succès</string>
     <string name="mione_update_fail_title">Echec</string>

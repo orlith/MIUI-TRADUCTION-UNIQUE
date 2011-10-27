@@ -14,6 +14,7 @@
     <string name="tab_apps">Applications</string>
     <string name="tab_log">Journal</string>
     <string name="allow">Autoriser</string>
+    <string name="know">Know it</string>
     <string name="forget">Oublier</string>
     <string name="cancel">Annuler</string>
     <string name="deny">Refuser</string>
@@ -47,10 +48,10 @@
     <string name="permission_manage">Gestion des autorisations</string>
     <string name="forbidden">Refuser</string>
     <string name="ask">Toujours demander</string>
-    <string name="permssion_detail">%s détails</string>
+    <string name="permssion_detail">Accès: %s</string>
     <string name="clear_log_message">Nettoyer le journal</string>
     <string name="success_clear_log">Journal nettoyé</string>
-    <string name="enable_authority_message">Activer la surveillance des autorisations (système et tierce partie)</string>
+    <string name="enable_authority_message">Surveillance des autorisations (système et tierce partie)activée</string>
     <string name="confirm_disable_authority">Désactiver la surveillance des autorisations désactivera également la surveillance des applications de tierce partie. Êtes vous certain de vouloir cela?</string>
     <string name="ask_for_root_permission_message">%s demande l\'autorisation d\'accès aux droits ROOT, voulez vous vraiment lui en laisser l\'accès?</string>
     <string name="menu_setting">Paramètres</string>

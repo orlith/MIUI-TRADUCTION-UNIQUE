@@ -45,8 +45,8 @@
     <string name="failed_to_drop_widget_invalid">Déplacement du widget échoué</string>
     <string name="failed_to_delete_temporary">Suppression échouée, veuillez réessayer</string>
     <string name="widget_favorite_contacts_label">Contacts</string>
-    <string name="widget_favorite_contacts_edit">Editeur</string>
-    <string name="widget_favorite_contacts_style">Changer de taille</string>
+    <string name="widget_favorite_contacts_edit">Editer</string>
+    <string name="widget_favorite_contacts_style">Taille</string>
     <string name="edit_folder_title">Modification du dossier</string>
     <string name="confirm_btn_label">OK</string>
     <string name="cancel_btn_label">Annuler</string>
@@ -76,6 +76,8 @@
     <string name="widget_gadget_player">Lecteur 4x4</string>
     <string name="buffering">Chargement…</string>
     <string name="emptyplaylist">La playlist est vide</string>
+    <string name="sdcard_missing_title">Carte SD non trouvée</string>
+    <string name="sdcard_busy_title">La carte SD est indisponible ou occupée</string>
     <string name="unknown_artist_name">Artiste Inconnu</string>
     <string name="global_search_hint">Cliquer sur Rechercher</string>
     <string name="widget_global_search">Recherche</string>
