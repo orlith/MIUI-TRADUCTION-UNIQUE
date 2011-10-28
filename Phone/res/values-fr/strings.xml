@@ -538,7 +538,7 @@
     <string name="sip_call_options_entry_1">Tous les appels quand un réseau de données est disponible</string>
     <string name="sip_call_options_entry_2">Les appels Internet</string>
     <string name="sip_call_options_entry_3">Demander à chaque fois</string>
-    <string name="sip_call_options_wifi_only_entry_1">Pour tous les appels</string>
+    <string name="sip_call_options_wifi_only_entry_1">Tous les appels</string>
     <string name="pick_outgoing_call_phone_type">Passer un appel</string>
     <string name="pick_outgoing_sip_phone">Utiliser un compte de téléphonie par Internet :</string>
     <string name="remember_my_choice">Utiliser systématiquement pour passer des appels Internet</string>
