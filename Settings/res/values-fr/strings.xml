@@ -1404,7 +1404,7 @@
     <string name="all_volume">Volumes</string>
     <string name="silent_mode">Mode silencieux</string>
     <string name="all_volume_settings_hint">Paramètres de volumes %s</string>
-    <string name="notification_use_ring_volume_title">Vol. Sonnerie = Notif.</string>
+    <string name="notification_use_ring_volume_title">Vol.Sonnerie = Vol. Notif.</string>
     <string name="ringtone_volume_title">Appel</string>
     <string name="notification_volume_title">Notifications</string>
     <string name="alarm_volume_title">Alarmes</string>
