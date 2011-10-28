@@ -533,10 +533,10 @@
     <string name="sip_accounts_title">Comptes</string>
     <string name="sip_receive_calls">Recevoir les appels</string>
     <string name="sip_receive_calls_summary">Réduit la durée de vie de la batterie</string>
-    <string name="sip_call_options_title">Politique</string>
+    <string name="sip_call_options_title">Utiliser pour:</string>
     <string name="sip_call_options_wifi_only_title">Appels Internet (Wi-Fi uniquement)</string>
-    <string name="sip_call_options_entry_1">Pour tous les appels quand un réseau de données est disponible</string>
-    <string name="sip_call_options_entry_2">Pour les appels Internet</string>
+    <string name="sip_call_options_entry_1">Tous les appels quand un réseau de données est disponible</string>
+    <string name="sip_call_options_entry_2">Les appels Internet</string>
     <string name="sip_call_options_entry_3">Demander à chaque fois</string>
     <string name="sip_call_options_wifi_only_entry_1">Pour tous les appels</string>
     <string name="pick_outgoing_call_phone_type">Passer un appel</string>
