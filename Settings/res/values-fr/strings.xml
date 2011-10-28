@@ -576,7 +576,6 @@
     <string name="settings_safetylegal_title">Informations de sécurité</string>
     <string name="settings_safetylegal_activity_title">Informations de sécurité</string>
     <string name="settings_safetylegal_activity_unreachable">Votre téléphone n\'est connecté à aucun service de données. Pour consulter ces informations maintenant, accédez à %s depuis un ordinateur connecté à Internet.</string>
-    <string name="settings_safetylegal_activity_loading">Chargement…</string>
     <string name="lockpassword_choose_your_password_header">Choisir votre mot de passe</string>
     <string name="lockpassword_choose_your_pin_header">Choisir votre code PIN</string>
     <string name="lockpassword_confirm_your_password_header">Confirmer le mot de passe</string>
@@ -1393,9 +1392,6 @@
     <string name="cit_display_continue">Cliquez sur l\'écran pour commencer à tester</string>
     <string name="cit_charger_current">Courant de charge: %dmA</string>
     <string name="cit_charger_current_error">Impossible d\'obtenir la valeur du courant de charge</string>
-    <string name="miui_copyright_title">Copyright</string>
-    <string name="miui_user_agreement_title">Accord utilisateur</string>
-    <string name="miui_privacy_policy_title">Politique de confidentialité</string>
     <string name="sound_settings">Paramètres audio</string>
     <string name="silent_mode_title">Mode silencieux</string>
     <string name="silent_mode_summary">Aucun son, sauf pour le multimédia et le réveil</string>

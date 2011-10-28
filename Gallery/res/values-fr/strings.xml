@@ -61,8 +61,6 @@
     <string name="folder">Dossier</string>
     <string name="file">Fichier</string>
     <string name="enter_selection">Sélection multiple</string>
-    <string name="send_single_video_hint_format">Envoyer une vidéo (%s)</string>
-    <string name="send_single_image_hint_format">Envoyer une photo (%s)</string>
     <string name="send_multiple_files_hint_format">Envoyer (Taille totale: %s)</string>
     <string name="already_select">Sélectionné(s): %s</string>
     <string name="how_many_videos">%d vidéo(s)</string>
@@ -89,7 +87,6 @@
     <string name="set_lock_or_wallpaper">Définir comme fond d\'écran</string>
     <string name="set_wallpaper">Du bureau</string>
     <string name="set_lockscreen">De verrouillage</string>
-    <string name="set_contact_photo">Définir comme avatar pour un contact</string>
     <string name="apply_pic_for">Utiliser comme:</string>
     <string name="wallpaper">Fond d\'écran</string>
     <string name="screen_saver_wallpaper">Verrouillage</string>

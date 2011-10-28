@@ -22,6 +22,10 @@
     <string name="yes">OK</string>
     <string name="dialog_alert_title">Attention</string>
     <string name="VideoView_error_text_invalid_progressive_playback">Désolé, cette vidéo ne peut être lue sur cet appareil.</string>
+    <string name="sd_not_available">Carte SD démontée ou non insérée</string>
+    <string name="sd_not_available_low_internal_storage">Carte SD démontée ou non insérée, l\'espace libre est insuffisant.</string>
+    <string name="sd_not_available_saved_to_internal_storage">Sauvegardé dans la mémoire interne</string>
+    <string name="sd_not_available_use_internal_storage">Carte SD indisponible, sauvegardé dans la mémoire du téléphone</string>
     <string name="config_statusBarComponent">com.android.systemui/com.android.systemui.statusbar.StatusBarService</string>
     <string name="config_tether_apndata" />
     <item type="string" name="default_wallpaper_component">@null</item>
@@ -794,9 +798,9 @@
     <string name="miui_user_agreement_title">Accord de l\'utilisateur</string>
     <string name="miui_privacy_policy_title">Politique de confidentialité</string>
     <string name="user_agreement1">Vous allez utiliser le système de services en ligne fournis par Xiaomi, merci de lire</string>
-    <string name="user_agreement2">\u0020Accord de l\'utilisateur</string>
+    <string name="user_agreement2">\u0020l\'accord de l\'utilisateur</string>
     <string name="user_agreement3">\u0020et\u0020</string>
-    <string name="user_agreement4">Politique de confidentialité</string>
+    <string name="user_agreement4">la politique de confidentialité</string>
     <string name="user_agreement5">. Cliquez sur OK pour accepter ces conditions, cliquez sur Annuler pour quitter.</string>
     <string name="smv_application">L\'application %1$s (processus %2$s) à violé sa politique stricte de confidentialité</string>
     <string name="smv_process">Le processus %1$s à violé sa politique stricte de confidentialité</string>
@@ -890,10 +894,6 @@
     <string name="ime_action_next">Suivant</string>
     <string name="ime_action_done">OK</string>
     <string name="ime_action_default">Exécuter</string>
-    <string name="managed_roaming_title">Gestion de l\'itinérance</string>
-    <string name="managed_roaming_dialog_content">Le système a trouvé un réseau avec service limité. Voulez vous initier une nouvelle recherche?</string>
-    <string name="managed_roaming_dialog_ok_button">Oui</string>
-    <string name="managed_roaming_dialog_cancel_button">Non</string>
     <string name="dial_number_using">Composer le numéro\n en utilisant %s</string>
     <string name="create_contact_using">Ajouter un contact\n en utilisant %s</string>
     <string name="accessibility_compound_button_selected">Sélectionné</string>
@@ -936,10 +936,6 @@
     <string name="media_removed">La carte SD a été enlevée.</string>
     <string name="media_shared">La carte SD est utilisée par un ordinateur.</string>
     <string name="media_unknown_state">Média externe en mode inconnu.</string>
-    <string name="sd_not_available">Carte SD démontée ou non insérée</string>
-    <string name="sd_not_available_low_internal_storage">Carte SD démontée ou non insérée, l\'espace libre est insuffisant.</string>
-    <string name="sd_not_available_saved_to_internal_storage">Sauvegardé dans la mémoire interne</string>
-    <string name="sd_not_available_use_internal_storage">Carte SD indisponible, sauvegardé dans la mémoire du téléphone</string>
     <string name="reboot_confirm">Votre téléphone va redémarrer.</string>
     <string name="reboot_progress">Redémarrage ...</string>
     <string name="global_action_toggle_privacy_mode">Mode privé</string>
@@ -1331,6 +1327,7 @@
     <string name="online_hottest_short">Populaires</string>
     <string name="online_latest_short">Récents</string>
     <string name="online_no_network">Pas de connexion réseau</string>
+    <string name="online_search_hint">Chercher des ressources en ligne</string>
     <string name="loading">Chargement</string>
     <string name="download_failed">Téléchargement échoué</string>
     <string name="download_preview_failed">Impossible de charger l\'aperçu</string>

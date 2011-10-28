@@ -411,6 +411,7 @@
     <string name="onscreenVoiceDeviceHeadset">Casque</string>
     <string name="onscreenVoiceDeviceSpeaker">Haut-parleurs</string>
     <string name="recordCall_sd_error">Erreur d\'accès à la carte SD. Insérez la carte SD avant d\'enregistrer</string>
+    <string name="recordCall_sd_space_low">Espace libre faible sur la carte SD. Libérez de l\'espace puis réessayez.</string>
     <string name="recordCall_sample_prefix">MIUI_Recording</string>
     <string name="auto_ip_setting">Paramètres d\'itinérance</string>
     <string name="autoip">Numérotation IP auto</string>
@@ -450,8 +451,6 @@
     <string name="turnover_mute_title">Muet par retournement</string>
     <string name="handon_ringer_title">Fondu</string>
     <string name="handon_ringer_summary">Le volume de la sonnerie diminue lorsque vous prenez votre téléphone. Inactif en mode vibreur.</string>
-    <string name="allow_3rd_app_listen_phone_event_title">Anti écoutes</string>
-    <string name="allow_3rd_app_listen_phone_event_summary">Protège votre téléphone des écoutes à votre insu</string>
     <string name="show_quick_contact_badge_title">Afficher avatars</string>
     <string name="set_smsc_address_title">Numéro du centre de messagerie</string>
     <string name="get_smsc_address_error">Impossible d\'obtenir le numéro du centre de messagerie, essayez plus tard SVP.</string>
@@ -468,7 +467,6 @@
     <string name="pref_more_settings_title">Paramètres supplémentaires</string>
     <string name="auto_answer_setting_title">Réglages du décrochage automatique</string>
     <string name="auto_answer_pref_title">Décrochage automatique</string>
-    <string name="auto_answer_pref_dialog_title">Délai avant le décrochage automatique</string>
     <string name="auto_answer_pref_summary">Active le décrochage automatique aux appels</string>
     <string name="auto_answer_delay_title">Délai de décrochage automatique</string>
     <string name="auto_answer_delay_entries_immediately">0s</string>
@@ -496,6 +494,9 @@
     <string name="call_title_redialing_with_times">Rappelé %d fois</string>
     <string name="call_record_notification_title">Enregistrement...</string>
     <string name="call_record_notification_message">Cliquez pour voir “%s”</string>
+    <string name="call_record_notification_title_error">Echec de l\'enregistrement de l\'appel</string>
+    <string name="call_record_notification_message_low_space">L\'enregistrement s\'est arrêté faute d\'espace libre suffisant. Cliquez pour voir %s.</string>
+    <string name="call_record_notification_message_sd_unmounted">L\'enregistrement s\'est arrêté car la carte SD est démontée.</string>
     <string name="prefered_network_type_title">Type de réseau</string>
     <string name="pin_attempts">\nIl vous reste %d essais</string>
     <string name="sim_lock_settings">Paramètres de sécurité de la carte SIM</string>
@@ -634,4 +635,5 @@
     <string name="pref_edit_custom_location_title">Editer</string>
     <string name="number_format_error_message">%s supporte seulement les numéros</string>
     <string name="jituan_number_format_error_message">%s supporte seulement les numéros et les #</string>
+    <string name="enter_edit_mode">Supprimer</string>
 </resources>
