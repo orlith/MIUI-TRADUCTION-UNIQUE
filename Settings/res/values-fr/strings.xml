@@ -631,8 +631,8 @@
     <string name="application_size_label">Application</string>
     <string name="data_size_label">Données</string>
     <string name="uninstall_text">Désinstaller</string>
-    <string name="disable_text">Désactiver</string>
-    <string name="enable_text">Activer</string>
+    <string name="disable_text">Désactivé</string>
+    <string name="enable_text">Activé</string>
     <string name="clear_user_data_text">Effacer les données</string>
     <string name="app_factory_reset">Désinstaller les mises à jour</string>
     <string name="auto_launch_enable_text">Vous avez choisi de lancer cette application par défaut pour certaines actions.</string>
