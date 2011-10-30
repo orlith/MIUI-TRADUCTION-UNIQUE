@@ -196,7 +196,7 @@
     <string name="lyricPickerNotFoundText">Le sélecteur de paroles n\'est pas installé</string>
     <string name="save">Sauver</string>
     <string name="lyric_download">Télécharger les paroles</string>
-    <string name="lrc_searching">Rechercher les paroles</string>
+    <string name="lrc_searching">Recherche des paroles</string>
     <string name="lrc_search_failed">Paroles introuvables</string>
     <string name="use_local_lyric">Utiliser les paroles sauvegardées</string>
     <string name="lyric_open_other_connect">Télécharger les paroles en utilisant la connexion Internet mobile</string>
