@@ -326,7 +326,7 @@
     <string name="callrecordview_menu_settings">Réglages</string>
     <string name="callrecordview_menu_show">Filtre d\'affichage</string>
     <string name="callrecordview_menu_paste">Coller</string>
-    <string name="callrecordview_item_op_time_missed">Appels manqués</string>
+    <string name="callrecordview_item_op_time_missed">%s Appel(s) sortant(s) manqué(s)</string>
     <string name="callrecordview_item_op_time_rejected">Appels rejetés</string>
     <string name="callrecordview_item_newcontact">Nouveau contact</string>
     <string name="callrecordview_item_op_time_short_incoming">Entrant--></string>
