@@ -981,7 +981,7 @@
     <string name="unknown">Inconnu</string>
     <string name="private_num">Appel masqué</string>
     <string name="payphone">Téléphone public</string>
-    <string name="callNoAnswerTimeFormat">%s appel sans réponse</string>
+    <string name="callNoAnswerTimeFormat">Appel sans réponse</string>
     <string name="callDetailsDurationFormat">%1$s min. %2$s sec.</string>
     <string name="firewall_setting">Filtrage</string>
     <string name="date_day">Date</string>
