@@ -125,6 +125,7 @@
     <string name="pref_camera_iso_800">ISO 800</string>
     <string name="pref_camera_iso_1250">ISO 1250</string>
     <string name="pref_camera_iso_1600">ISO 1600</string>
+    <string name="pref_camera_iso_HJR">Qualité</string>
     <string name="pref_camera_autoexposure">Mode de mesure</string>
     <string name="pref_camera_autoexposure_average">Cadre moyen</string>
     <string name="pref_camera_autoexposure_center">Centre pondéré</string>
@@ -137,7 +138,7 @@
     <string name="video_settings">Paramètres vidéos</string>
     <string name="pref_video_quality">Qualité vidéo</string>
     <string name="pref_video_quality_720p">720p (2h)</string>
-    <string name="pref_video_quality_hd">HD (2h)</string>
+    <string name="pref_video_quality_hd">HD%s (2h)</string>
     <string name="pref_video_quality_high">Élevée (2h)</string>
     <string name="pref_video_quality_low">Faible (2h)</string>
     <string name="pref_video_quality_mms">MMS (faible, 30 s)</string>

@@ -226,7 +226,6 @@
     <string name="exported_data_file_name">Mes Données</string>
     <string name="loading_video">Chargement de la vidéo</string>
     <string name="home_page_title">Accueil</string>
-    <string name="yellow_page_title">Sites recommandés</string>
     <string name="forum_post_info">\\n\\n\\n[size=2][color=Silver]—— Envoyé par The Miren Browser[/color][/size]</string>
     <string name="rss_tab_hot">Populaire</string>
     <string name="setting_common">Général</string>
@@ -265,13 +264,8 @@
     <string name="player_not_found">lecteur ne trouve pas</string>
     <string name="pref_single_click">Action un seul clic</string>
     <string name="pref_long_click">Action sur appui long</string>
-    <string name="home_top_sites">Top sites</string>
-    <string name="home_bookmark_favorite">Favoris</string>
-    <string name="home_history">Historique</string>
     <string name="category">Catégorie</string>
     <string name="site">Site</string>
-    <string name="goto_bookmark_favorite">Favoris</string>
-    <string name="goto_history">Historique</string>
     <string name="bookmark_menu_sort_by_default">Tri par défaut</string>
     <string name="bookmark_menu_sort_by_name">Tri par nom</string>
     <string name="bookmark_menu_add_folder">Nouveau dossier</string>
@@ -284,10 +278,6 @@
     <string name="website_edit_failed_message">Echec de la modification</string>
     <string name="cannot_enter_full_screen">Impossible d\'entrer dans le mode plein écran</string>
     <string name="exit_text_selection">Quitter la sélection du texte</string>
-    <string name="pref_max_navigate_page_topsites_title">Nombre de favoris/historique</string>
-    <string name="pref_max_navigate_page_topsites_summary">Nombre de favoris sur la page navigation et d\'éléments dans l\'historique</string>
-    <string name="pref_max_navigate_page_topsites_message_succeed">Le nombre d\'éléments dans favoris et historique a été modifié avec succès à %d.</string>
-    <string name="pref_max_navigate_page_topsites_message_failed">Echec de la modification. Le nombre d\'élements dans favoris et historique ne peut pas dépasser %d.</string>
     <string name="download_no_application_title">L\'application ne parvient pas à ouvrir le fichier.</string>
     <string name="switch_to_fullscreen_mode">Cliquez ici pour passer en mode plein écran</string>
     <string name="switch_to_reading_mode">Cliquez ici pour passer en mode lecture</string>

@@ -62,6 +62,7 @@
     <string name="voicemail_abbreviated">MV :</string>
     <string name="networks">Opérateur de réseau</string>
     <string name="call_settings">Paramètres d\'appel</string>
+    <string name="more_call_settings">Paramètres supplémentaires</string>
     <string name="additional_cdma_call_settings">Autres paramètres d\'appel CDMA</string>
     <string name="sum_cdma_call_settings">Autres paramètres d\'appel \"CDMA uniquement\"</string>
     <string name="labelCallerId">Numéro de l\'appelant</string>

@@ -36,6 +36,7 @@
     <string name="theme_component_title_all">Thèmes</string>
     <string name="apply_theme_no_select_message">Veuillez sélectionner le module à appliquer!</string>
     <string name="apply_lockscreen_paper_tips">Le nouvel écran de verrouillage pourrait ne pas être visible immédiatement! Pas d\'inquiétude il apparaîtra au prochain redémarrage.</string>
+    <string name="apply_theme_font_tips">La nouvelle police peut entraîner des défauts d\'affichage, ceux-ci peuvent être résolus en redémarrant votre téléphone.</string>
     <string name="play_all_audio_effect">Activer les effets audios (total: %1$s)</string>
     <string name="theme_import">Importer à partir de la carte SD</string>
     <string name="theme_select_others">Autres</string>

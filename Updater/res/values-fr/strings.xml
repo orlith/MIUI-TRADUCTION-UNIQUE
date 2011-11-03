@@ -19,7 +19,6 @@
     <string name="copy_install_log">Copier le journal d\'installation</string>
     <string name="reboot_to_new_system">Redémarrer vers le système installé</string>
     <string name="update_success">Mise à jour réussie</string>
-    <string name="update_success_body">Le système a été mis à jour avec succès vers la version %s</string>
     <string name="mione_update_success_title">Mise à jour réussie</string>
     <string name="mione_update_success_description">La mise à jour a été appliquée avec succès</string>
     <string name="mione_update_fail_title">Echec</string>
@@ -60,7 +59,7 @@
     <string name="new_updates_found_title">Nouvelle mise à jour détectée</string>
     <string name="new_update_content_title">Une mise à jour est disponible: %s</string>
     <string name="update_success_title">Vous avez la dernière version!</string>
-    <string name="update_success_body_title">Mise à jour %s terminée avec succès.</string>
+    <string name="update_success_body">Le système a été mis à jour avec succès vers la version %s</string>
     <string name="exception_while_downloading">Problème pendant le téléchargement</string>
     <string name="new_updates_found_body">De nouvelles mises à jour ont été détectées</string>
     <string name="new_updates_found_notification_title">Mises à jour disponibles!</string>
@@ -85,6 +84,7 @@
     <string name="emegency_update_helper">Aide à la mise à jour</string>
     <string name="emegency_update_size">Taille:%s</string>
     <string name="sign_in_info">Vous utilisez actuellement la rom MIUI-FRANCE.com %3$s</string>
+    <string name="sign_in_info_more">Votre classement après mise à jour est %1$s\nPlus de %2$s utilisateurs ont signés pour MIUI %3$s</string>
     <string name="sign_in_add_account_helper">Si vous rencontrez des difficultés, rendez-vous sur passport.xiaomi.com</string>
     <string name="move_data_to_sdcard_title">Vers la carte SD</string>
     <string name="move_data_to_sdcard_not_enough_space_message">Besoin de migrer environ %dM de données, mais pas assez d\'espace libre sur la carte SD.</string>

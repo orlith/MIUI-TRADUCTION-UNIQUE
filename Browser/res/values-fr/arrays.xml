@@ -37,6 +37,10 @@
         <item>ALWAYS</item>
         <item>ONLY_NO_MUSIC</item>
     </string-array>
+    <string-array name="barcon_operation_items">
+        <item>Modifier</item>
+        <item>Supprimer</item>
+    </string-array>
     <string-array name="pref_reading_mode_choices">
         <item>entre automatiquement en mode lecture</item>
         <item>Entrez manuellement le mode de lecture</item>
