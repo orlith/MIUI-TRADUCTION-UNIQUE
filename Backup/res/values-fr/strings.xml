@@ -61,6 +61,7 @@
     <string name="contact_title">Contacts</string>
     <string name="call_title">Journal des appels</string>
     <string name="sms_title">SMS</string>
+    <string name="mms_title">MMS</string>
     <string name="wifi_title">Paramètres Wi-Fi</string>
     <string name="note_title">Notes</string>
     <string name="compute_backup_info">Récupération des informations de sauvegarde</string>

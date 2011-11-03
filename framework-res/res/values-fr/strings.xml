@@ -591,6 +591,8 @@
     <string name="permdesc_record_calls">Autoriser une application à enregistrer les appels.</string>
     <string name="permlab_modify_audio_settings_during_call">Manipuler les options audio durant l\'appel</string>
     <string name="permdesc_modify_audio_settings_during_call">Autoriser une application à manipuler les options audios durant l\'appel.</string>
+    <string name="permlab_modify_phone_related_audio_settings">Manipuler les paramètres audio liés au téléphone</string>
+    <string name="permdesc_modify_phone_related_audio_settings">Autoriser une application à manipuler les paramètres audio liés au téléphone.</string>
     <string name="policylab_limitPassword">Limiter le mot de passe</string>
     <string name="policydesc_limitPassword">Restreint les types de mots de passe que vous êtes autorisé à utiliser.</string>
     <string name="policylab_watchLogin">Surveiller les tentatives de connexion</string>
@@ -894,6 +896,10 @@
     <string name="ime_action_next">Suivant</string>
     <string name="ime_action_done">OK</string>
     <string name="ime_action_default">Exécuter</string>
+    <string name="managed_roaming_title">Itinérance gérée</string>
+    <string name="managed_roaming_dialog_content">Réseau avec service limité trouvé. Voulez-vous lancer une recherche de réseau ?</string>
+    <string name="managed_roaming_dialog_ok_button">Oui</string>
+    <string name="managed_roaming_dialog_cancel_button">Non</string>
     <string name="dial_number_using">Composer le numéro\n en utilisant %s</string>
     <string name="create_contact_using">Ajouter un contact\n en utilisant %s</string>
     <string name="accessibility_compound_button_selected">Sélectionné</string>
@@ -956,7 +962,7 @@
     <string name="status_bar_toggle_flight_mode">Avion</string>
     <string name="status_bar_toggle_lock">Verrouillage</string>
     <string name="status_bar_toggle_ac">Contrôle d\'accès</string>
-    <string name="status_bar_toggle_network_type">Type de réseau</string>
+    <string name="status_bar_toggle_network_type">Réseau</string>
     <string name="status_bar_toggle_torch">Torche</string>
     <string name="status_bar_toggle_reboot">Redémarrer</string>
     <string name="status_bar_toggle_shutdown">Eteindre</string>
