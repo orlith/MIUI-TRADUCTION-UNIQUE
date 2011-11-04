@@ -72,8 +72,8 @@
     <string name="item_count_in_header">(%d)</string>
     <string name="zero_count">(0)</string>
     <string name="local_search_empty">Aucun résultat ne correspond a votre recherche</string>
-    <string name="playback_failed_by_bad_file">\'%s\' le format du fichier n\'est pas supporté</string>
-    <string name="playback_failed_no_title_by_bad_file">Ce type de fichier audio n\'est pas pris en charge.</string>
+    <string name="playback_failed_by_bad_file">\'%s\' le format du fichier n\'est pas supporté ou le fichier n\'existe pas...</string>
+    <string name="playback_failed_no_title_by_bad_file">Ce type de fichier audio n\'est pas pris en charge ou le fichier n\'existe pas.</string>
     <string name="playback_failed_by_network">\'%s\'chansons ne peuvent pas être jouée, vérifiez la connexion réseau</string>
     <string name="playback_failed_no_title_by_network">Les chansons ne peuvent pas être jouée, vérifiez la connexion réseau</string>
     <string name="refresh">Actualiser</string>
