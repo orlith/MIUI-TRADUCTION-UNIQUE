@@ -84,7 +84,7 @@
     <string name="gadget_clock_24_label">Pendule 2x4</string>
     <string name="gadget_photo_44_label">Photo 4x4</string>
     <string name="gadget_photo_22_label">Photo 2x2</string>
-    <string name="gadget_photo_24_label">Photo2x4</string>
+    <string name="gadget_photo_24_label">Photo 2x4</string>
     <string name="gadget_load_error">Erreur de chargement du widget...</string>
     <string name="invalid_contact_shortcut">Raccourci contact invalide</string>
     <string name="guide_tips_editing_mode">Presser et maintenir pour déposer le widget là où vous le souhaitez</string>
