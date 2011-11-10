@@ -483,6 +483,8 @@
     <string name="auto_redial_pref_summary">Si la ligne est occupée, le système tentera de rappeler votre correspondant 10 fois maximum.</string>
     <string name="auto_record_call_title">Toujours enregistrer</string>
     <string name="auto_record_call_summary">Commencer l\'enregistrement dès le début de l\'appel et le sauver sur la carte SD</string>
+    <string name="call_recording_notification">Notifications d\'enregistrement d\'appel</string>
+    <string name="call_recording_notification_summary">Afficher une notification dans la barre de statut lorsque l\'enregistrement d\'un appel se termine</string>
     <string name="connect_disconnect_vibrate_title">Vibration</string>
     <string name="connect_disconnect_vibrate_summary">Vibrer au décrochage/raccrochage d\'un appel</string>
     <string name="connect_disconnect_vibrate_normal">Vibrations normales</string>
