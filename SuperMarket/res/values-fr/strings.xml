@@ -33,6 +33,7 @@
     <string name="no_elite_apps">Aucune application élite</string>
     <string name="no_local_apps">Aucune application locale</string>
     <string name="no_recommendations">Aucune recommandation</string>
+    <string name="user_no_recommendations_format">%s n\'a pas d\'applications recommandées</string>
     <string name="no_cares">Aucun besoin</string>
     <string name="user_no_cares_format">L\'appli. %s n\'a actuellement pas été recommandé par d\'autres utilisateurs</string>
     <string name="no_fans">Aucun fan</string>
@@ -107,6 +108,7 @@
     <string name="uninstall_app">Désinstaller</string>
     <string name="uninstall_app_format">Désinstaller “%s” ?</string>
     <string name="empty_comment_input">Pas de commentaire, soumettez votre avis ici</string>
+    <string name="duplicate_comment">Le commentaire a déjà été publié, ne pas le dupliquer</string>
     <string name="empty_report_input">Pas de commentaire, soumettez votre avis ici</string>
     <string name="error_when_downloading_app_format">Erreur pendant le téléchargement de “%s”</string>
     <string name="download_recommend_pieces_format">%s téléchargements，%s recommandés</string>
@@ -127,5 +129,5 @@
     <string name="app_install_error_format">Erreur de téléchargement de \'%s\', cliquez sur installer pour télécharger</string>
     <string name="signature_changed_format">signatures incompatibles \'%s\'</string>
     <string name="uninstall_then_install">Désinstaller l\'ancienne version avant d\'installer la nouvelle?</string>
-    <string name="duplicate_comment">Le commentaire a déjà été publié, ne pas le dupliquer</string>
+    <string name="package_not_found">Le package d\'installation est corrompu, veuillez le re-télécharger et procéder à nouveau à l\'installation</string>
 </resources>
