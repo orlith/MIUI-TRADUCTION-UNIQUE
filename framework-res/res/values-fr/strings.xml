@@ -726,8 +726,8 @@
     <string name="permlab_writeGeolocationPermissions">Modifier les autorisations de géolocalisation du navigateur</string>
     <string name="permdesc_writeGeolocationPermissions">Permet à une application de modifier les autorisations de géolocalisation du navigateur. Les applications malveillantes peuvent se servir de cette fonctionnalité pour envoyer des informations de lieu à des sites Web arbitraires.</string>
     <string name="save_password_message">Voulez-vous que le navigateur se souvienne de ce mot de passe ?</string>
-    <string name="save_password_notnow">Pas maintenant</string>
-    <string name="save_password_remember">Mémoriser</string>
+    <string name="save_password_notnow">Plus tard</string>
+    <string name="save_password_remember">Oui</string>
     <string name="save_password_never">Jamais</string>
     <string name="open_permission_deny">Vous n\'êtes pas autorisé à ouvrir cette page.</string>
     <string name="text_copied">Le texte a été copié dans le presse-papier.</string>
@@ -976,7 +976,7 @@
     <string name="to_vibrate_settings">Réglages du vibreur</string>
     <string name="first_back_long_press_title">Comportement du bouton Retour</string>
     <string name="first_back_long_press_message">Voulez-vous ouvrir les paramètres pression longue sur la touche Retour pour arrêter le processus en cours et son service? Sinon allez dans Paramètres -> Système -> bouton</string>
-    <string name="force_exit_message">Quitter \"%1$s\"</string>
+    <string name="force_exit_message">L\'application \"%1$s\" a été fermée</string>
     <string name="lockscreen_dial_label">Appel</string>
     <string name="lockscreen_mms_label">SMS</string>
     <string name="status_bar_back_to_call">Revenir à l\'appel</string>
