@@ -576,7 +576,6 @@
     <string name="settings_safetylegal_title">Informations de sécurité</string>
     <string name="settings_safetylegal_activity_title">Informations de sécurité</string>
     <string name="settings_safetylegal_activity_loading">Chargement…</string>
-    <string name="settings_safetylegal_activity_unreachable">Votre téléphone n\'est connecté à aucun service de données. Pour consulter ces informations maintenant, accédez à %s depuis un ordinateur connecté à Internet.</string>
     <string name="lockpassword_choose_your_password_header">Choisir votre mot de passe</string>
     <string name="lockpassword_choose_your_pin_header">Choisir votre code PIN</string>
     <string name="lockpassword_confirm_your_password_header">Confirmer le mot de passe</string>
@@ -609,7 +608,7 @@
     <string name="skip_button_label">Annuler</string>
     <string name="next_button_label">Suivant</string>
     <string name="lock_title">Sécurisation de votre téléphone</string>
-    <string name="lock_intro_message"><font size="17">Protégez votre téléphone contre toute utilisation non autorisée en créant un schéma personnel de déverrouillage de l\'écran. \n<font height="17">\n</font><b>1</b>  L\'écran suivant vous présente un exemple de schéma. \n<font height="17">\n</font><b>2</b>  Lorsque vous êtes prêt, dessinez votre propre schéma de déverrouillage. Essayez-en plusieurs, mais veillez à relier au moins quatre points. \n<font height="17">\n</font><b>3</b>  Reproduisez votre schéma pour confirmer votre choix. \n<font height="17">\n</font><b>Pour commencer, appuyez sur \"Suivant\"</b>. \n<font height="3">\n</font>Si vous ne souhaitez pas activer la protection, appuyez sur \"Annuler\".</font></string>
+    <string name="lock_intro_message"><font size="17">Protégez votre téléphone contre toute utilisation non autorisée en créant un schéma personnel de déverrouillage de l\'écran. \n<font height="17">\n</font><b>1</b>  L\'écran suivant vous présente un exemple de schéma. \n<font height="17">\n</font><b>2</b>  Lorsque vous êtes prêt, dessinez votre propre schéma de déverrouillage. Essayez-en plusieurs, mais veillez à relier au moins quatre points. \n<font height="17">\n</font><b>3</b>  Reproduisez votre schéma pour confirmer votre choix. \n<font height="17">\n</font><b>Pour commencer, appuyez sur \"Suivant\"</b>. \n<font height="3">\n</font>Si vous ne souhaitez pas activer la protection, appuyez sur \"Annuler\".</font>\u0020</string>
     <string name="lock_example_title">Exemple de schéma</string>
     <string name="lock_example_message">Reliez au moins quatre points.\n \nSélectionnez \"Suivant\" pour créer votre propre schéma.</string>
     <string name="manageapplications_settings_title">Gérer les applications</string>
@@ -767,6 +766,8 @@
     <string name="allow_mock_location_summary">Autoriser les positions fictives</string>
     <string name="adb_warning_title">Autoriser le débogage USB ?</string>
     <string name="adb_warning_message">Le débogage USB est conçu à des fins de développement uniquement. Il peut servir à copier des données entre votre ordinateur et votre appareil, à installer des applications sur votre appareil sans notification et à lire les données de journal.</string>
+    <string name="keepscreenon_warning_title">Rester éveillé pendant la charge ?</string>
+    <string name="keepscreenon_warning_message">Laisser le téléphone en mode éveil durant le chargement de la batterie entraîne la non extinction de l\'écran et peut provoquer une surchauffe du téléphone.</string>
     <string name="other_pref_title">Autres</string>
     <string name="enable_gpu">Accélération graphique 2D</string>
     <string name="enable_gpu_summary">Désactiver l\'accélération graphique 2D préservera la batterie. Un redémarrage sera nécessaire.</string>
@@ -1463,5 +1464,4 @@
     <string name="pref_volume_category_title">Volume</string>
     <string name="pref_volume_wake_title">Activation par les touches de volume</string>
     <string name="pref_volume_wake_summary">Les touches de volume réactiveront l\'écran. Utile si le bouton classique est défaillant par exemple.</string>
-    <item type="string" name="APKTOOL_DUMMY_05b6">false</item>
 </resources>

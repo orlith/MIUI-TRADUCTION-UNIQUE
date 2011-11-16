@@ -3,16 +3,6 @@
 .source "SysUtils.java"
 
 
-# static fields
-.field public static final KEY_ACCOUNT_TYPE:Ljava/lang/String; = "com.miui.auth"
-
-.field public static final KEY_AUTH_TOKEN_TYPE:Ljava/lang/String; = "miuiToken"
-
-.field public static final KEY_TOKEN:Ljava/lang/String; = "token"
-
-.field private static final TAG:Ljava/lang/String; = "SysUtils"
-
-
 # direct methods
 .method public constructor <init>()V
     .locals 0
@@ -1861,12 +1851,12 @@
 .end method
 
 .method public static showNotification(Landroid/content/Context;Lcom/android/updater/customTypes/UpdateInfo;Ljava/lang/String;II)V
-    .locals 8
-    .parameter "context"
-    .parameter "updateInfo"
-    .parameter "title"
-    .parameter "bodyTitleRes"
-    .parameter "bodyRes"
+    .locals 7
+    .parameter
+    .parameter
+    .parameter
+    .parameter
+    .parameter
 
     .prologue
     .line 338
@@ -1887,10 +1877,12 @@
     .line 343
     invoke-virtual {p1}, Lcom/android/updater/customTypes/UpdateInfo;->getFileName()Ljava/lang/String;
 
-    move-result-object p2
+    move-result-object v0
+
+    move-object v5, v0
 
     .line 346
-    :cond_1
+    :goto_1
     new-instance v1, Landroid/content/Intent;
 
     const-class v0, Lcom/android/updater/ApplyUpdateActivity;
@@ -1898,58 +1890,56 @@
     invoke-direct {v1, p0, v0}, Landroid/content/Intent;-><init>(Landroid/content/Context;Ljava/lang/Class;)V
 
     .line 347
-    .local v1, intent:Landroid/content/Intent;
     invoke-static {p0, p1}, Lcom/android/updater/utils/StringUtils;->getModName(Landroid/content/Context;Lcom/android/updater/customTypes/UpdateInfo;)Ljava/lang/String;
-
-    move-result-object v7
-
-    .line 348
-    .local v7, updateRomName:Ljava/lang/String;
-    invoke-static {p1}, Lcom/android/updater/ApplyUpdateActivity;->setUpdateInfo(Lcom/android/updater/customTypes/UpdateInfo;)V
-
-    .line 349
-    new-instance v0, Ljava/io/File;
-
-    new-instance v2, Ljava/lang/StringBuilder;
-
-    invoke-direct {v2}, Ljava/lang/StringBuilder;-><init>()V
-
-    sget-object v3, Lcom/android/updater/misc/Constants;->ROM_FOLDER:Ljava/lang/String;
-
-    invoke-virtual {v2, v3}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
-
-    move-result-object v2
-
-    const-string v3, "/"
-
-    invoke-virtual {v2, v3}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
-
-    move-result-object v2
-
-    invoke-virtual {p1}, Lcom/android/updater/customTypes/UpdateInfo;->getFileName()Ljava/lang/String;
-
-    move-result-object v3
-
-    invoke-virtual {v2, v3}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
-
-    move-result-object v2
-
-    invoke-virtual {v2}, Ljava/lang/StringBuilder;->toString()Ljava/lang/String;
-
-    move-result-object v2
-
-    invoke-direct {v0, v2}, Ljava/io/File;-><init>(Ljava/lang/String;)V
-
-    invoke-static {v0}, Landroid/net/Uri;->fromFile(Ljava/io/File;)Landroid/net/Uri;
 
     move-result-object v0
 
-    invoke-virtual {v1, v0}, Landroid/content/Intent;->setData(Landroid/net/Uri;)Landroid/content/Intent;
+    .line 348
+    invoke-static {p1}, Lcom/android/updater/ApplyUpdateActivity;->setUpdateInfo(Lcom/android/updater/customTypes/UpdateInfo;)V
+
+    .line 349
+    new-instance v2, Ljava/io/File;
+
+    new-instance v3, Ljava/lang/StringBuilder;
+
+    invoke-direct {v3}, Ljava/lang/StringBuilder;-><init>()V
+
+    sget-object v4, Lcom/android/updater/misc/Constants;->ROM_FOLDER:Ljava/lang/String;
+
+    invoke-virtual {v3, v4}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
+    move-result-object v3
+
+    const-string v4, "/"
+
+    invoke-virtual {v3, v4}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
+    move-result-object v3
+
+    invoke-virtual {p1}, Lcom/android/updater/customTypes/UpdateInfo;->getFileName()Ljava/lang/String;
+
+    move-result-object v4
+
+    invoke-virtual {v3, v4}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
+    move-result-object v3
+
+    invoke-virtual {v3}, Ljava/lang/StringBuilder;->toString()Ljava/lang/String;
+
+    move-result-object v3
+
+    invoke-direct {v2, v3}, Ljava/io/File;-><init>(Ljava/lang/String;)V
+
+    invoke-static {v2}, Landroid/net/Uri;->fromFile(Ljava/io/File;)Landroid/net/Uri;
+
+    move-result-object v2
+
+    invoke-virtual {v1, v2}, Landroid/content/Intent;->setData(Landroid/net/Uri;)Landroid/content/Intent;
 
     .line 350
-    const-string v0, "update_info"
+    const-string v2, "update_info"
 
-    invoke-virtual {v1, v0, v7}, Landroid/content/Intent;->putExtra(Ljava/lang/String;Ljava/lang/String;)Landroid/content/Intent;
+    invoke-virtual {v1, v2, v0}, Landroid/content/Intent;->putExtra(Ljava/lang/String;Ljava/lang/String;)Landroid/content/Intent;
 
     .line 352
     const/4 v0, 0x1
@@ -1969,7 +1959,6 @@
     move-result-object v6
 
     .line 353
-    .local v6, body:Ljava/lang/String;
     const v2, 0x7f060040
 
     const v3, 0x7f02001d
@@ -1978,11 +1967,14 @@
 
     move v4, p3
 
-    move-object v5, p2
-
     invoke-static/range {v0 .. v6}, Lcom/android/updater/utils/SysUtils;->showNotification(Landroid/content/Context;Landroid/content/Intent;IIILjava/lang/String;Ljava/lang/String;)V
 
     goto :goto_0
+
+    :cond_1
+    move-object v5, p2
+
+    goto :goto_1
 .end method
 
 .method public static trimUpdatePath(Ljava/lang/String;)Ljava/lang/String;

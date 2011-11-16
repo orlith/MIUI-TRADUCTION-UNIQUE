@@ -91,6 +91,7 @@
     <string name="sum_cfnrc_enabled">Transfert vers le {0}</string>
     <string name="sum_cfnrc_disabled">Désactivé</string>
     <string name="disable_cfnrc_forbidden">Votre opérateur ne prend pas en charge la désactivation du transfert d\'appel lorsque votre téléphone n\'est pas joignable.</string>
+    <string name="disable_all_cf">Désactiver tous les transferts d'appels</string>
     <string name="error_updating_title">Erreur des paramètres d\'appel</string>
     <string name="reading_settings">Lecture des paramètres...</string>
     <string name="updating_settings">Mise à jour des paramètres...</string>
@@ -515,6 +516,7 @@
     <string name="voice_quality_ui_values_crisp">Craquante</string>
     <string name="voice_quality_ui_values_bright">Claire</string>
     <string name="prefered_network_type_pref_entries_3g_prefered">3G de préférence</string>
+    <string name="prefered_network_type_pref_entries_auto">Automatique</string>
     <string name="prefered_network_type_pref_entries_only_2g">2G uniquement</string>
     <string name="prefered_network_type_pref_entries_only_3g">3G uniquement</string>
     <string name="pin_progress_set_icc_lock">Définition de l\'état du ICC…</string>
