@@ -79,8 +79,8 @@
     <string name="save_label">OK</string>
     <string name="discard_label">Annuler</string>
     <string name="import_label">Importer</string>
-    <string name="snooze_all_label">Tout répéter</string>
-    <string name="dismiss_all_label">Tout supprimer</string>
+    <string name="snooze_all_label">Répéter</string>
+    <string name="dismiss_all_label">OK</string>
     <string name="does_not_repeat">Événement ponctuel</string>
     <string name="daily">Quotidien</string>
     <string name="every_weekday">Les jours ouvrables (lun–ven)</string>
